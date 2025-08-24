@@ -1,0 +1,1001 @@
+Date,Time,Weather,Road_Condition,Time_of_Day,Traffic,Accident_Type,Vehicle_Type,Accident_Reason,Latitude,Longitude,Severity
+2025-04-20,13:34:01,Clear,Poor,Afternoon,Jam,Head-on,Car,Speeding,40.802783204753446,-73.93992940501671,High
+2025-05-21,16:37:43,Rain,Good,Afternoon,Low,Other,Car,Speeding,40.64538934793286,-73.7401515901382,Low
+2025-03-15,00:48:34,Snow,Poor,Night,Medium,Rollover,Car,Alcohol,40.56791649017791,-73.91705542451749,High
+2025-05-10,01:08:17,Rain,Moderate,Night,Medium,Head-on,Truck,Running Red Light,40.61066598396268,-73.71724499238559,High
+2025-06-05,04:45:08,Rain,Good,Night,Medium,Head-on,Car,Weather,40.70098523512329,-73.80938312556763,High
+2025-06-01,07:14:42,Clear,Good,Morning,High,Head-on,Car,Weather,40.86065401686649,-73.99869821311184,Medium
+2025-02-27,06:51:39,Clear,Good,Night,Jam,Side,Car,Weather,40.59085822549143,-73.7461872692133,Medium
+2025-07-02,20:12:46,Snow,Construction,Evening,Medium,Rollover,Car,Speeding,40.87566370683708,-73.95196239669843,High
+2025-01-08,23:32:36,Rain,Good,Evening,Low,Side,Truck,Speeding,40.64469741434035,-73.79890718386717,Medium
+2025-08-04,01:38:09,Clear,Good,Night,Medium,Head-on,Car,Running Red Light,40.60713173990164,-73.89096931223577,Medium
+2025-01-29,23:43:14,Rain,Construction,Evening,Jam,Side,Pedestrian,Mechanical Failure,40.71068490174145,-74.14255880981307,High
+2025-07-09,15:36:42,Clear,Moderate,Afternoon,Low,Rollover,Car,Weather,40.88398833300177,-73.94627150287059,Medium
+2025-08-03,00:01:59,Rain,Poor,Night,Jam,Head-on,Bicycle,Mechanical Failure,40.651819956798185,-74.07719641948322,High
+2025-03-29,18:59:13,Snow,Poor,Afternoon,High,Rollover,Car,Distracted Driving,40.80351607392668,-74.00768820118313,High
+2025-02-25,00:43:39,Clear,Good,Night,Low,Side,Truck,Alcohol,40.78404329450886,-73.81227939043804,Low
+2025-07-29,19:13:26,Fog,Moderate,Evening,High,Rollover,Motorcycle,Mechanical Failure,40.70337924975497,-73.85648776787102,High
+2025-03-28,15:49:05,Snow,Moderate,Afternoon,Jam,Side,Motorcycle,Speeding,40.89349758217679,-73.92064393991225,Medium
+2025-06-16,04:23:36,Rain,Moderate,Night,Medium,Other,Motorcycle,Weather,40.70719896146501,-73.92186459693798,Medium
+2025-08-27,17:50:57,Clear,Moderate,Afternoon,Low,Head-on,Car,Speeding,40.68044799262972,-73.8120631404486,Medium
+2025-03-23,06:38:56,Clear,Good,Night,Medium,Head-on,Car,Distracted Driving,40.55063086165583,-73.95855411828028,Medium
+2025-01-25,22:49:08,Clear,Moderate,Evening,Medium,Head-on,Truck,Speeding,40.87775498768725,-73.88003993181924,Medium
+2025-03-22,06:01:45,Snow,Moderate,Night,High,Rear-end,Truck,Weather,40.712552286033485,-73.89225509370746,Medium
+2025-05-13,22:08:28,Clear,Good,Evening,Medium,Head-on,Car,Weather,40.88757064218599,-73.85278874193405,Medium
+2025-08-21,12:06:05,Snow,Moderate,Morning,Low,Head-on,Car,Distracted Driving,40.74124402498212,-73.96755279736782,Medium
+2025-01-06,22:45:53,Clear,Moderate,Evening,Medium,Side,Truck,Weather,40.88261082866499,-74.08973193765665,Low
+2025-07-29,20:52:27,Clear,Good,Evening,High,Rear-end,Truck,Distracted Driving,40.726136347668415,-73.90589742840444,Medium
+2025-03-27,03:12:46,Clear,Poor,Night,Jam,Rear-end,Car,Running Red Light,40.85482664618221,-73.82748117398343,Medium
+2025-04-22,06:21:13,Rain,Good,Night,High,Other,Truck,Distracted Driving,40.550611420612526,-74.06366698570767,Medium
+2025-01-18,01:15:00,Rain,Poor,Night,Low,Rollover,Car,Speeding,40.75253340411687,-74.057412835217,High
+2025-01-07,03:43:51,Rain,Poor,Night,Medium,Rear-end,Car,Mechanical Failure,40.56642393044656,-73.92700800136515,Medium
+2025-08-28,05:12:09,Clear,Poor,Night,Medium,Side,Car,Speeding,40.81925680564088,-73.86711170674678,Medium
+2025-05-15,08:44:36,Clear,Good,Morning,Low,Side,Pedestrian,Speeding,40.90466467856567,-74.08248998756552,Low
+2025-07-20,20:28:51,Rain,Good,Evening,Medium,Rear-end,Motorcycle,Alcohol,40.67105546873556,-73.99174017371055,Medium
+2025-04-13,05:00:52,Clear,Poor,Night,Medium,Side,Car,Speeding,40.81208841941436,-73.99548307847488,Medium
+2025-01-31,05:54:35,Clear,Good,Night,High,Rear-end,Motorcycle,Running Red Light,40.74914859585144,-74.05095953056089,Medium
+2025-05-02,23:27:12,Clear,Good,Evening,Medium,Rear-end,Car,Speeding,40.74220486823795,-74.05449728017153,Low
+2025-05-27,10:13:55,Rain,Moderate,Morning,Medium,Other,Bicycle,Weather,40.78071920028189,-73.98088573876035,Low
+2025-06-18,05:14:16,Clear,Poor,Night,Medium,Rollover,Car,Weather,40.84465143391348,-74.05458602282994,High
+2025-02-07,00:37:19,Rain,Good,Night,High,Rear-end,Car,Running Red Light,40.665189391358886,-73.91411536792837,Medium
+2025-02-11,14:20:58,Rain,Moderate,Afternoon,Medium,Side,Car,Mechanical Failure,40.87327369341518,-74.11634796269311,Low
+2025-08-30,04:44:00,Clear,Good,Night,Jam,Rear-end,Motorcycle,Distracted Driving,40.58498756084896,-73.85889683739826,Medium
+2025-06-23,10:49:17,Clear,Moderate,Morning,Low,Head-on,Bicycle,Distracted Driving,40.784833677315866,-74.04140724478478,Medium
+2025-08-05,19:12:50,Clear,Poor,Evening,Medium,Other,Car,Speeding,40.80481498584453,-73.8888947794541,Medium
+2025-07-26,07:06:53,Clear,Moderate,Morning,Medium,Head-on,Bus,Running Red Light,40.7399551887865,-73.84453669536273,Medium
+2025-01-24,03:43:29,Snow,Moderate,Night,High,Head-on,Car,Weather,40.78831503657139,-74.02930789151488,High
+2025-07-05,10:29:25,Clear,Good,Morning,Low,Other,Car,Alcohol,40.86628012783739,-74.11016575262865,Low
+2025-08-27,07:08:02,Rain,Good,Morning,Low,Rollover,Truck,Alcohol,40.59045832462033,-73.94068451526888,Medium
+2025-06-01,17:26:01,Snow,Good,Afternoon,Low,Other,Car,Speeding,40.765097133383705,-74.1139202049005,Low
+2025-01-11,12:34:05,Clear,Good,Morning,Medium,Side,Bus,Weather,40.65088244736677,-73.97022113302079,Low
+2025-06-27,13:44:36,Clear,Moderate,Afternoon,High,Rear-end,Truck,Speeding,40.65635487103452,-73.96193695130539,Low
+2025-08-05,16:45:53,Clear,Good,Afternoon,Medium,Rollover,Car,Distracted Driving,40.86893652687581,-73.74613112889472,Medium
+2025-06-05,21:21:39,Clear,Moderate,Evening,Medium,Rear-end,Car,Speeding,40.712855363598,-73.93526020228923,Low
+2025-07-13,08:30:08,Rain,Moderate,Morning,Medium,Rollover,Car,Alcohol,40.847612649194446,-73.79388679466832,Medium
+2025-02-11,23:07:34,Clear,Good,Evening,Medium,Other,Pedestrian,Running Red Light,40.635637799559774,-73.89103819955461,Low
+2025-03-27,02:16:47,Rain,Good,Night,Medium,Rear-end,Motorcycle,Alcohol,40.9097659393404,-74.0042586044433,Medium
+2025-08-28,01:41:06,Clear,Good,Night,Medium,Rear-end,Pedestrian,Distracted Driving,40.73423726849949,-73.93525617862103,Low
+2025-04-26,14:30:09,Clear,Good,Afternoon,Medium,Head-on,Car,Mechanical Failure,40.55687906169052,-74.05186956399264,Medium
+2025-06-07,08:44:15,Rain,Poor,Morning,Medium,Head-on,Car,Mechanical Failure,40.6505109882332,-73.7035715197074,High
+2025-08-04,19:24:46,Clear,Moderate,Evening,Medium,Head-on,Motorcycle,Distracted Driving,40.80315316508563,-74.03277389684567,Medium
+2025-01-25,05:08:21,Rain,Moderate,Night,High,Other,Car,Alcohol,40.87688972466415,-73.78516623323186,Medium
+2025-03-10,19:59:08,Rain,Poor,Evening,High,Rear-end,Motorcycle,Speeding,40.78856683656071,-73.85108759724717,High
+2025-08-13,03:06:07,Snow,Good,Night,High,Side,Car,Distracted Driving,40.90719170125276,-73.96586136431318,Medium
+2025-02-12,05:51:26,Rain,Poor,Night,Low,Side,Pedestrian,Alcohol,40.696347726543294,-74.00083321681961,Medium
+2025-02-04,03:55:20,Clear,Good,Night,Low,Rear-end,Truck,Weather,40.63849466114881,-74.12133096312276,Low
+2025-03-12,18:16:30,Clear,Good,Afternoon,Low,Rollover,Car,Running Red Light,40.73953943779025,-74.06490881577331,Medium
+2025-07-06,22:53:09,Clear,Moderate,Evening,High,Side,Truck,Running Red Light,40.74166164737218,-74.05862386886002,Medium
+2025-08-05,21:35:05,Clear,Good,Evening,Low,Other,Car,Speeding,40.672326850463655,-74.00945571655612,Low
+2025-07-19,23:53:56,Rain,Good,Evening,Medium,Side,Motorcycle,Running Red Light,40.694409846479566,-74.12010327687229,Medium
+2025-06-29,21:16:51,Clear,Good,Evening,Low,Rollover,Car,Alcohol,40.66486020703197,-74.13455269163408,Medium
+2025-08-13,02:26:37,Clear,Moderate,Night,Jam,Rollover,Car,Weather,40.869105251788426,-73.98457234333577,High
+2025-01-23,03:16:24,Clear,Construction,Night,Low,Rear-end,Motorcycle,Other,40.82974261144205,-73.7217014027342,Medium
+2025-07-31,14:13:20,Clear,Poor,Afternoon,Medium,Other,Car,Speeding,40.81702367174385,-74.04547054039625,Low
+2025-08-23,01:23:12,Clear,Poor,Night,Low,Head-on,Car,Running Red Light,40.58591867147525,-73.7048367221842,High
+2025-01-17,09:56:15,Clear,Good,Morning,High,Other,Truck,Distracted Driving,40.77972919070176,-73.81839117731937,Low
+2025-08-07,06:09:30,Clear,Good,Night,Low,Other,Car,Weather,40.747723546785735,-74.0256192546487,Low
+2025-03-02,00:29:33,Clear,Moderate,Night,Medium,Rollover,Motorcycle,Distracted Driving,40.69848574626519,-73.72124921340483,Medium
+2025-01-04,18:55:59,Rain,Good,Afternoon,Low,Other,Truck,Alcohol,40.84536555235994,-74.01884836245563,Low
+2025-07-16,22:43:53,Fog,Poor,Evening,Low,Other,Bicycle,Speeding,40.75038858796111,-73.97601700955778,Medium
+2025-05-04,02:35:47,Clear,Moderate,Night,High,Side,Car,Distracted Driving,40.59102986360034,-73.70331853693136,Medium
+2025-01-04,10:14:23,Snow,Good,Morning,Medium,Rear-end,Motorcycle,Running Red Light,40.75050134120378,-74.10710336839819,Low
+2025-03-16,09:34:59,Rain,Good,Morning,Medium,Other,Car,Mechanical Failure,40.61676353949901,-74.00752069256153,Low
+2025-06-07,11:23:24,Clear,Moderate,Morning,Medium,Rollover,Motorcycle,Speeding,40.71743414796241,-73.7705562297202,Medium
+2025-05-09,10:44:04,Fog,Good,Morning,Medium,Rear-end,Motorcycle,Weather,40.59107960083832,-74.0497374044168,Low
+2025-03-19,23:28:40,Clear,Good,Evening,Low,Rollover,Motorcycle,Speeding,40.87286864897275,-73.87341847622925,Medium
+2025-04-15,21:10:26,Clear,Moderate,Evening,High,Other,Car,Other,40.64196333644068,-73.91260097173438,Medium
+2025-05-02,10:54:26,Clear,Poor,Morning,Medium,Rear-end,Bus,Weather,40.76834016427462,-74.09905164012415,Low
+2025-06-28,13:44:13,Rain,Moderate,Afternoon,Medium,Other,Car,Other,40.71739794799268,-73.74972844442867,Low
+2025-05-26,15:00:06,Snow,Poor,Afternoon,Medium,Other,Car,Weather,40.56570269854294,-74.07159495160202,Medium
+2025-04-05,22:30:37,Clear,Good,Evening,Medium,Head-on,Car,Weather,40.77795929648006,-74.08844933522971,Medium
+2025-07-14,20:56:34,Clear,Poor,Evening,Medium,Other,Motorcycle,Alcohol,40.855733452101326,-74.00728910381838,Medium
+2025-03-22,14:38:25,Clear,Good,Afternoon,High,Other,Truck,Running Red Light,40.65522590280775,-73.91761768795692,Low
+2025-02-04,10:44:02,Clear,Moderate,Morning,Medium,Head-on,Car,Mechanical Failure,40.89150301911164,-73.85240052768515,Medium
+2025-05-22,03:33:46,Clear,Good,Night,High,Other,Car,Speeding,40.70386079312931,-73.74525314192238,Medium
+2025-04-26,15:19:43,Rain,Good,Afternoon,Low,Rollover,Car,Distracted Driving,40.79420480785713,-73.92155802664207,Medium
+2025-05-28,21:51:34,Rain,Good,Evening,Medium,Rollover,Car,Weather,40.86723436274726,-73.80021554642904,High
+2025-03-04,18:16:09,Clear,Good,Afternoon,Low,Other,Bus,Speeding,40.83509704240412,-73.96594948651375,Low
+2025-03-15,05:31:30,Snow,Moderate,Night,Medium,Side,Motorcycle,Weather,40.57132065122314,-74.10059934134382,Medium
+2025-01-07,02:51:54,Rain,Good,Night,Medium,Other,Bicycle,Speeding,40.90930838527599,-73.86835581229104,Medium
+2025-07-28,18:26:42,Rain,Good,Afternoon,Medium,Rear-end,Car,Running Red Light,40.70290287119631,-73.70318575225973,Low
+2025-03-01,20:57:16,Clear,Moderate,Evening,Low,Head-on,Pedestrian,Speeding,40.60665200643512,-73.81946745157681,Medium
+2025-02-13,02:09:06,Clear,Good,Night,High,Rollover,Car,Running Red Light,40.86449427813471,-73.88508592087352,High
+2025-05-09,09:06:29,Snow,Good,Morning,Low,Rear-end,Motorcycle,Mechanical Failure,40.59033856946621,-73.82536801397723,Low
+2025-05-19,18:54:52,Rain,Construction,Afternoon,High,Rear-end,Motorcycle,Distracted Driving,40.89409784749528,-73.79271784434144,Medium
+2025-08-14,22:07:51,Clear,Good,Evening,Jam,Other,Car,Distracted Driving,40.81468081211912,-73.9517860821803,Medium
+2025-07-01,12:33:15,Clear,Good,Morning,Low,Rollover,Car,Other,40.78744826853868,-73.94625502582487,Medium
+2025-03-02,00:08:22,Clear,Construction,Night,Medium,Other,Bus,Speeding,40.75845390432082,-73.84335188054125,Medium
+2025-03-07,10:56:18,Rain,Moderate,Morning,Medium,Rear-end,Car,Mechanical Failure,40.735766494708336,-74.12578949505627,Low
+2025-06-21,04:21:21,Clear,Moderate,Night,Medium,Head-on,Car,Distracted Driving,40.747621380208926,-73.81692222189348,Medium
+2025-03-18,01:42:11,Clear,Moderate,Night,High,Head-on,Pedestrian,Distracted Driving,40.75657091392738,-74.14205382033082,High
+2025-05-25,17:23:53,Rain,Good,Afternoon,Low,Head-on,Car,Distracted Driving,40.85773681643248,-74.12320877050963,Medium
+2025-03-21,05:43:12,Clear,Construction,Night,High,Other,Car,Weather,40.77758454537353,-74.08383607676579,Medium
+2025-06-14,21:16:13,Clear,Poor,Evening,Low,Side,Truck,Weather,40.66030275475582,-74.01811375493386,Medium
+2025-03-19,23:15:49,Snow,Good,Evening,Low,Side,Pedestrian,Weather,40.59957662958018,-74.10938625724256,Medium
+2025-01-13,09:57:27,Snow,Good,Morning,Low,Rollover,Car,Distracted Driving,40.86796226705109,-74.02420923897198,Medium
+2025-03-01,11:13:17,Clear,Good,Morning,Medium,Side,Car,Alcohol,40.62870391913216,-73.91504181788684,Low
+2025-02-19,18:41:55,Clear,Good,Afternoon,Medium,Other,Car,Speeding,40.62380937286412,-73.98169981202372,Low
+2025-08-30,19:29:38,Rain,Good,Evening,Low,Head-on,Motorcycle,Alcohol,40.90148745259357,-74.11674853465391,High
+2025-02-07,20:23:29,Clear,Good,Evening,Low,Head-on,Car,Speeding,40.73646469594333,-74.10462859877583,Medium
+2025-01-26,12:24:24,Clear,Construction,Morning,Medium,Head-on,Car,Mechanical Failure,40.82566351761759,-73.80939493905707,Medium
+2025-07-24,04:10:19,Clear,Poor,Night,Low,Head-on,Bicycle,Weather,40.91473401415518,-73.8266586519519,High
+2025-03-17,06:26:56,Clear,Good,Night,High,Rollover,Car,Weather,40.65044920832307,-74.10543185067104,High
+2025-06-09,05:34:09,Clear,Good,Night,Low,Head-on,Car,Distracted Driving,40.59880445736739,-73.90577451558276,Medium
+2025-03-26,07:24:28,Clear,Good,Morning,Medium,Rollover,Car,Speeding,40.84640250450589,-74.10369601969272,Medium
+2025-06-12,04:22:18,Clear,Moderate,Night,Medium,Side,Car,Mechanical Failure,40.6315367855096,-74.01386428055464,Low
+2025-03-28,01:45:54,Clear,Construction,Night,Medium,Other,Car,Distracted Driving,40.82432535961931,-73.79531943537498,Medium
+2025-01-03,17:00:00,Clear,Good,Afternoon,Medium,Rear-end,Car,Speeding,40.85617582909661,-73.7447451941067,Low
+2025-07-21,19:55:18,Clear,Good,Evening,High,Rear-end,Car,Running Red Light,40.585184705927006,-73.72552976502321,Medium
+2025-04-12,23:34:09,Clear,Construction,Evening,Low,Head-on,Motorcycle,Other,40.8544540950433,-73.72169535208843,High
+2025-06-02,02:23:48,Clear,Good,Night,Low,Side,Car,Speeding,40.57916141648329,-74.10028718327537,Low
+2025-02-12,15:18:29,Clear,Moderate,Afternoon,Medium,Rear-end,Car,Distracted Driving,40.70043660168735,-74.10633873241531,Low
+2025-04-29,12:02:04,Rain,Moderate,Morning,Low,Head-on,Motorcycle,Alcohol,40.83753959963433,-74.06960155760096,Medium
+2025-05-28,03:30:56,Clear,Poor,Night,High,Head-on,Motorcycle,Distracted Driving,40.69323109048037,-73.7177103444133,High
+2025-05-26,14:50:22,Clear,Poor,Afternoon,Jam,Other,Truck,Distracted Driving,40.89161141195081,-74.14124486173345,Medium
+2025-02-28,04:02:44,Clear,Good,Night,High,Head-on,Car,Weather,40.8836154634304,-73.91897990752221,High
+2025-03-02,16:01:24,Rain,Good,Afternoon,High,Rear-end,Motorcycle,Mechanical Failure,40.86743023293035,-73.8667922340376,Medium
+2025-03-21,12:31:19,Clear,Good,Morning,High,Rollover,Car,Alcohol,40.8366966711852,-73.87837410508688,Medium
+2025-06-06,13:53:54,Clear,Good,Afternoon,Medium,Rollover,Car,Speeding,40.68547536576791,-74.02144616528359,Medium
+2025-01-17,18:46:31,Clear,Good,Afternoon,Medium,Rollover,Car,Distracted Driving,40.60763972773756,-73.87117850581222,Medium
+2025-07-18,04:14:42,Clear,Poor,Night,Medium,Head-on,Car,Running Red Light,40.677490244899744,-74.14131573106928,High
+2025-07-19,00:08:16,Clear,Moderate,Night,Low,Rollover,Bicycle,Distracted Driving,40.6570425973285,-73.79470222928911,Medium
+2025-01-25,00:43:18,Clear,Moderate,Night,Medium,Rollover,Truck,Alcohol,40.61208572885037,-74.08941755624566,Medium
+2025-08-01,07:56:02,Snow,Moderate,Morning,High,Head-on,Truck,Mechanical Failure,40.5671759126153,-74.09654701040404,High
+2025-06-30,13:14:51,Snow,Moderate,Afternoon,High,Side,Car,Distracted Driving,40.604023835830944,-73.93431184355263,Medium
+2025-08-10,12:13:52,Clear,Good,Morning,Medium,Rollover,Motorcycle,Alcohol,40.6594281279875,-73.84003490531207,Medium
+2025-05-15,03:10:58,Clear,Moderate,Night,Medium,Other,Motorcycle,Speeding,40.68047857841769,-74.14036442197784,Low
+2025-04-10,14:50:09,Clear,Good,Afternoon,Medium,Side,Car,Distracted Driving,40.67610979150961,-73.83833584898494,Low
+2025-06-04,16:10:38,Clear,Moderate,Afternoon,Medium,Other,Car,Speeding,40.82932749097818,-73.92029739439569,Low
+2025-08-04,02:11:40,Snow,Poor,Night,Jam,Side,Motorcycle,Distracted Driving,40.8568537989039,-73.75516953679639,High
+2025-06-02,00:53:23,Clear,Good,Night,Low,Side,Car,Running Red Light,40.60781557753333,-73.85194311194985,Low
+2025-05-29,13:04:23,Clear,Good,Afternoon,Low,Rollover,Bicycle,Weather,40.56984441017904,-74.12741955038764,Medium
+2025-05-03,07:55:20,Clear,Moderate,Morning,Jam,Head-on,Motorcycle,Distracted Driving,40.6014426387628,-73.85115099928264,Medium
+2025-01-23,02:15:11,Clear,Good,Night,Low,Head-on,Motorcycle,Distracted Driving,40.55847517064095,-73.82078087815788,Medium
+2025-03-14,23:27:16,Clear,Good,Evening,Medium,Head-on,Pedestrian,Speeding,40.78611157761846,-73.89208755962174,Medium
+2025-01-14,17:33:50,Clear,Good,Afternoon,Medium,Other,Car,Alcohol,40.70417873435607,-73.75163941564524,Low
+2025-03-21,07:16:43,Snow,Good,Morning,Low,Head-on,Truck,Mechanical Failure,40.83528639023742,-74.08623135070955,Medium
+2025-06-11,11:56:07,Clear,Good,Morning,Medium,Other,Bus,Speeding,40.604177820410094,-73.93205316387792,Low
+2025-07-08,05:47:01,Clear,Good,Night,High,Rollover,Truck,Running Red Light,40.919402405603,-74.0058717494514,High
+2025-01-04,07:21:51,Clear,Good,Morning,High,Rollover,Car,Distracted Driving,40.72968491600856,-73.99603536130397,Medium
+2025-03-02,18:24:55,Clear,Construction,Afternoon,Low,Rollover,Car,Speeding,40.72216672555949,-74.06249808647443,Medium
+2025-01-14,21:44:42,Fog,Good,Evening,High,Side,Motorcycle,Distracted Driving,40.61204800947755,-73.77141358269022,Medium
+2025-07-22,14:05:47,Snow,Moderate,Afternoon,Low,Rollover,Truck,Other,40.65487496801701,-73.77970319650665,Medium
+2025-03-13,22:41:14,Rain,Good,Evening,Medium,Other,Car,Distracted Driving,40.6576661205694,-73.98118254687675,Medium
+2025-04-17,09:25:00,Rain,Good,Morning,High,Rollover,Truck,Running Red Light,40.66070233726874,-73.80179517091489,High
+2025-05-07,13:35:49,Rain,Good,Afternoon,Medium,Head-on,Motorcycle,Distracted Driving,40.61151598847152,-73.96158834129947,Medium
+2025-01-26,20:50:00,Clear,Good,Evening,Low,Rear-end,Car,Weather,40.66576667766049,-73.84863542982707,Low
+2025-05-11,19:04:34,Fog,Poor,Evening,Medium,Side,Truck,Speeding,40.73525457265429,-74.13703678799693,Medium
+2025-01-22,23:25:39,Rain,Poor,Evening,High,Side,Car,Distracted Driving,40.61488608693994,-74.09700702493942,High
+2025-01-06,23:59:09,Clear,Poor,Evening,Medium,Rollover,Motorcycle,Mechanical Failure,40.78671553677517,-73.99398933033685,High
+2025-05-10,19:01:42,Snow,Good,Evening,Low,Head-on,Car,Speeding,40.74500455021951,-73.96881151171111,High
+2025-01-14,00:28:25,Rain,Good,Night,Low,Side,Car,Speeding,40.652762744965074,-73.71196911971562,Medium
+2025-03-10,16:24:21,Rain,Moderate,Afternoon,High,Other,Car,Distracted Driving,40.67245090605222,-73.83035015398357,Medium
+2025-07-01,17:54:12,Clear,Moderate,Afternoon,High,Rear-end,Truck,Distracted Driving,40.75025534374162,-73.72742405354435,Low
+2025-07-20,21:05:04,Clear,Good,Evening,High,Rear-end,Car,Speeding,40.5685467799587,-73.89227456696968,Medium
+2025-07-12,07:45:37,Clear,Good,Morning,Jam,Head-on,Car,Speeding,40.90146114260689,-73.88712161711823,Medium
+2025-02-13,13:17:04,Clear,Moderate,Afternoon,High,Side,Bicycle,Distracted Driving,40.814315109920514,-74.04883237673475,Low
+2025-04-05,16:55:35,Rain,Good,Afternoon,Medium,Rollover,Bicycle,Distracted Driving,40.65797988368037,-74.04211340884311,Medium
+2025-06-16,00:08:21,Rain,Poor,Night,High,Head-on,Motorcycle,Mechanical Failure,40.85859495159625,-73.93143004694478,High
+2025-03-11,17:24:53,Snow,Good,Afternoon,Medium,Rear-end,Motorcycle,Running Red Light,40.56010713190841,-73.83252227561302,Low
+2025-06-17,16:29:51,Rain,Good,Afternoon,High,Other,Motorcycle,Distracted Driving,40.90844343464023,-74.04488438378554,Medium
+2025-01-15,13:25:49,Clear,Good,Afternoon,Medium,Rear-end,Car,Distracted Driving,40.87212038447873,-73.85078363720912,Low
+2025-05-04,23:38:52,Fog,Poor,Evening,High,Side,Truck,Weather,40.72711169405407,-73.85095085121962,High
+2025-05-19,23:32:36,Rain,Moderate,Evening,Medium,Other,Car,Mechanical Failure,40.78476329465725,-74.08288303838958,Medium
+2025-04-23,19:09:01,Clear,Moderate,Evening,Medium,Other,Pedestrian,Speeding,40.80139803329847,-74.12729196354505,Low
+2025-05-18,20:20:49,Clear,Moderate,Evening,Low,Rollover,Car,Distracted Driving,40.55443211510396,-73.88018960298874,Medium
+2025-06-25,03:35:55,Clear,Good,Night,High,Rollover,Car,Distracted Driving,40.66228056431428,-73.92135785401575,High
+2025-03-19,02:38:34,Clear,Moderate,Night,High,Head-on,Pedestrian,Running Red Light,40.55314616244415,-73.76134190394879,High
+2025-04-04,12:35:52,Clear,Moderate,Morning,Low,Rollover,Car,Speeding,40.71474991042718,-73.97626835190147,Medium
+2025-02-13,21:33:44,Rain,Good,Evening,Low,Side,Car,Mechanical Failure,40.81085276542468,-73.96359270911199,Medium
+2025-07-23,07:05:10,Rain,Moderate,Morning,Low,Side,Car,Weather,40.62739829932739,-73.8917070108312,Low
+2025-05-31,04:51:35,Clear,Good,Night,Medium,Rear-end,Truck,Alcohol,40.780436051236606,-74.02284656057638,Low
+2025-03-13,16:53:20,Snow,Good,Afternoon,High,Rollover,Truck,Distracted Driving,40.90660256435171,-73.90499605304895,High
+2025-01-19,01:15:57,Clear,Good,Night,Medium,Other,Car,Speeding,40.642953442145554,-73.91469922380531,Low
+2025-05-31,07:59:13,Clear,Poor,Morning,Low,Other,Bus,Weather,40.623684433112444,-73.74925628669124,Low
+2025-05-16,06:02:42,Clear,Moderate,Night,High,Side,Motorcycle,Speeding,40.81781174384592,-73.96016198505663,Medium
+2025-06-19,12:54:25,Snow,Good,Morning,Low,Head-on,Car,Mechanical Failure,40.74496016590264,-73.91952445212458,Medium
+2025-06-05,04:20:02,Clear,Good,Night,Medium,Rollover,Car,Distracted Driving,40.66222955448793,-73.77068239435552,Medium
+2025-01-30,17:21:43,Clear,Good,Afternoon,Low,Side,Motorcycle,Running Red Light,40.91955335481655,-73.97080536111466,Low
+2025-04-29,09:18:11,Clear,Construction,Morning,High,Head-on,Car,Speeding,40.65243854467223,-73.89743661687007,High
+2025-07-09,05:01:44,Clear,Good,Night,Low,Rear-end,Car,Alcohol,40.79604461779081,-73.81299591952646,Low
+2025-08-11,09:34:40,Clear,Good,Morning,Low,Side,Truck,Distracted Driving,40.88973718233625,-73.707245883638,Low
+2025-06-29,15:36:12,Rain,Poor,Afternoon,High,Head-on,Car,Mechanical Failure,40.84066759109958,-74.06861389253898,High
+2025-07-06,08:00:48,Clear,Moderate,Morning,High,Side,Motorcycle,Distracted Driving,40.6082851104548,-73.88270819495345,Low
+2025-03-26,20:23:26,Clear,Good,Evening,Medium,Head-on,Car,Speeding,40.734170807467706,-73.78146029057191,Medium
+2025-03-13,01:33:16,Clear,Moderate,Night,Medium,Rear-end,Motorcycle,Speeding,40.81188301312918,-73.81197098283228,Low
+2025-06-22,06:36:39,Clear,Good,Night,Low,Other,Car,Weather,40.86259383631939,-74.11956815256305,Low
+2025-06-29,03:41:47,Clear,Good,Night,Medium,Rear-end,Motorcycle,Distracted Driving,40.66897339196471,-74.03197944252538,Low
+2025-06-21,08:21:51,Rain,Good,Morning,High,Side,Motorcycle,Weather,40.86992294486232,-74.07579196526899,Medium
+2025-06-19,09:02:51,Rain,Moderate,Morning,Medium,Rollover,Car,Weather,40.90003614838376,-74.0619435276163,Medium
+2025-07-27,08:17:07,Rain,Poor,Morning,Medium,Rollover,Motorcycle,Distracted Driving,40.66312572189152,-73.7903055733958,High
+2025-07-08,06:05:47,Clear,Poor,Night,Medium,Rear-end,Car,Mechanical Failure,40.664071408431234,-73.89857305574455,Medium
+2025-06-01,19:01:24,Rain,Moderate,Evening,Medium,Rollover,Car,Weather,40.67962631878309,-73.82073536452037,High
+2025-06-24,02:43:23,Clear,Good,Night,Low,Rear-end,Car,Running Red Light,40.77882408461546,-73.81795474123732,Low
+2025-02-08,02:11:10,Clear,Good,Night,Medium,Side,Motorcycle,Running Red Light,40.56638860476926,-73.72063606801134,Low
+2025-05-13,09:00:01,Clear,Good,Morning,Medium,Rear-end,Car,Distracted Driving,40.56768284903194,-74.01131265785325,Low
+2025-03-07,08:34:55,Fog,Good,Morning,High,Side,Car,Mechanical Failure,40.57231011250229,-73.8903500334488,Medium
+2025-05-30,15:00:22,Clear,Good,Afternoon,High,Side,Motorcycle,Alcohol,40.685173437012566,-73.87124385470403,Low
+2025-03-03,08:15:01,Rain,Moderate,Morning,Medium,Rear-end,Truck,Mechanical Failure,40.84722577751667,-73.92257031384248,Low
+2025-06-27,14:47:31,Rain,Poor,Afternoon,Low,Side,Car,Speeding,40.75985404706852,-73.77881535151383,Medium
+2025-07-14,09:44:53,Rain,Construction,Morning,Medium,Rollover,Bicycle,Distracted Driving,40.563789427422506,-74.0650854514421,High
+2025-05-11,21:30:11,Clear,Good,Evening,Medium,Rollover,Pedestrian,Running Red Light,40.68883932054939,-74.10149201524413,Medium
+2025-06-16,13:33:54,Clear,Moderate,Afternoon,Medium,Head-on,Car,Speeding,40.71271275216052,-73.73540700615885,Medium
+2025-07-02,02:36:49,Clear,Good,Night,Medium,Other,Car,Mechanical Failure,40.56611630473125,-73.92766128054598,Low
+2025-03-11,09:10:02,Clear,Poor,Morning,Medium,Head-on,Motorcycle,Distracted Driving,40.75470589924991,-73.83237345180498,Medium
+2025-03-14,17:47:31,Clear,Good,Afternoon,Medium,Side,Truck,Speeding,40.7979981775441,-73.97763426979111,Low
+2025-04-24,17:12:24,Clear,Good,Afternoon,Medium,Side,Bicycle,Distracted Driving,40.68356806075321,-74.03784355496204,Low
+2025-03-01,00:25:54,Clear,Good,Night,Jam,Side,Car,Speeding,40.74339396473152,-73.89795818704616,Medium
+2025-06-17,06:15:00,Rain,Good,Night,Low,Other,Motorcycle,Weather,40.6098778650069,-74.05761336979454,Medium
+2025-01-31,00:08:56,Rain,Poor,Night,Low,Head-on,Car,Distracted Driving,40.78354775063405,-74.11448958594104,High
+2025-08-27,05:45:04,Rain,Good,Night,High,Rollover,Truck,Alcohol,40.7017553963588,-73.71174244695335,High
+2025-08-21,07:15:21,Rain,Moderate,Morning,High,Rear-end,Motorcycle,Other,40.846940635148215,-74.07809062829494,Medium
+2025-08-23,06:40:58,Rain,Moderate,Night,Low,Head-on,Truck,Speeding,40.72643867796277,-74.13365836729892,High
+2025-08-27,09:22:08,Clear,Good,Morning,Medium,Rear-end,Car,Speeding,40.91764937812987,-74.10337034168377,Low
+2025-08-15,05:19:38,Clear,Moderate,Night,Medium,Side,Truck,Running Red Light,40.68598964780131,-73.8724959786815,Low
+2025-02-02,11:31:24,Rain,Poor,Morning,Low,Rear-end,Car,Running Red Light,40.56110388047643,-73.91618968170445,Medium
+2025-07-23,17:43:52,Clear,Construction,Afternoon,Low,Other,Car,Weather,40.57728534110223,-74.05334448256734,Low
+2025-05-26,15:17:51,Rain,Good,Afternoon,Medium,Rear-end,Car,Weather,40.71222919380032,-74.09884175842926,Low
+2025-02-22,17:46:06,Fog,Construction,Afternoon,Medium,Rear-end,Motorcycle,Alcohol,40.633017799513496,-73.9079937824681,Medium
+2025-07-27,22:01:43,Clear,Moderate,Evening,High,Side,Truck,Alcohol,40.908268616561,-74.09509022211597,Medium
+2025-04-09,12:35:58,Clear,Construction,Morning,High,Head-on,Motorcycle,Alcohol,40.79345059284813,-73.7526738050426,High
+2025-07-20,11:55:42,Clear,Good,Morning,Low,Rollover,Car,Distracted Driving,40.65577109918912,-74.09628481853808,Medium
+2025-04-20,21:56:03,Clear,Moderate,Evening,Low,Rear-end,Bicycle,Distracted Driving,40.906150747329725,-74.09529214092767,Low
+2025-04-02,06:07:59,Clear,Good,Night,Medium,Head-on,Bus,Distracted Driving,40.689634710856765,-73.77834667881856,Medium
+2025-04-08,12:17:01,Rain,Poor,Morning,Low,Head-on,Motorcycle,Mechanical Failure,40.86804918476153,-74.04635630743662,High
+2025-07-22,14:07:44,Snow,Moderate,Afternoon,High,Other,Car,Alcohol,40.6517372659765,-73.85943377136445,Medium
+2025-04-19,15:49:22,Rain,Good,Afternoon,Medium,Other,Car,Alcohol,40.71861617062415,-74.09759535986363,Low
+2025-02-12,05:00:04,Rain,Moderate,Night,Medium,Rollover,Car,Alcohol,40.64018256495029,-74.11956430570945,High
+2025-08-27,20:42:58,Snow,Good,Evening,Medium,Rear-end,Car,Running Red Light,40.76441775370072,-73.74310088519283,Medium
+2025-02-07,08:57:08,Clear,Good,Morning,Low,Head-on,Truck,Weather,40.56134071856168,-73.95192306897427,Medium
+2025-08-05,16:00:27,Rain,Moderate,Afternoon,Medium,Other,Car,Distracted Driving,40.750861211791936,-73.7716013823031,Low
+2025-07-23,08:25:46,Clear,Moderate,Morning,High,Other,Pedestrian,Distracted Driving,40.597506266734136,-74.04307930975978,Low
+2025-07-24,02:17:32,Rain,Moderate,Night,Low,Rear-end,Motorcycle,Speeding,40.57526581397877,-73.96500224497144,Medium
+2025-07-06,15:31:30,Clear,Moderate,Afternoon,Medium,Other,Car,Distracted Driving,40.71824364760075,-74.0244028420072,Low
+2025-04-08,11:25:28,Clear,Moderate,Morning,Low,Side,Car,Distracted Driving,40.7292789675792,-74.06053068911717,Low
+2025-04-13,12:51:00,Clear,Poor,Morning,Low,Other,Motorcycle,Alcohol,40.84726089583817,-73.76809818550664,Low
+2025-07-11,17:47:51,Rain,Moderate,Afternoon,Low,Rear-end,Car,Speeding,40.79581271591222,-73.94556554498557,Low
+2025-06-17,08:40:21,Clear,Good,Morning,Low,Other,Bus,Weather,40.89466226221086,-73.90305236880721,Low
+2025-06-04,07:14:50,Snow,Good,Morning,Medium,Rear-end,Truck,Distracted Driving,40.59924635946688,-74.06955197542342,Low
+2025-08-16,15:23:41,Clear,Poor,Afternoon,High,Side,Motorcycle,Weather,40.90510240303629,-73.94080833323035,Medium
+2025-08-23,17:17:26,Clear,Good,Afternoon,High,Rollover,Motorcycle,Weather,40.57080321885495,-73.98034106449809,Medium
+2025-01-31,21:04:27,Clear,Moderate,Evening,High,Head-on,Car,Distracted Driving,40.88081608535594,-73.88448831277601,High
+2025-03-03,05:38:37,Clear,Good,Night,Medium,Side,Car,Speeding,40.78207272567595,-73.83362822194856,Low
+2025-06-08,11:18:36,Snow,Construction,Morning,Medium,Head-on,Motorcycle,Weather,40.75003800174237,-74.01994638004658,High
+2025-03-05,23:50:46,Clear,Good,Evening,Jam,Head-on,Car,Speeding,40.90963633647487,-73.99426521968907,High
+2025-01-30,18:05:25,Snow,Poor,Afternoon,Medium,Rear-end,Car,Weather,40.59004155671994,-73.80810917982437,Medium
+2025-05-02,20:31:34,Clear,Moderate,Evening,Medium,Side,Car,Speeding,40.76599172572485,-73.86598551981976,Low
+2025-05-08,09:25:45,Clear,Good,Morning,Medium,Head-on,Car,Distracted Driving,40.70304110296599,-73.84065167264173,Medium
+2025-02-26,04:52:00,Clear,Good,Night,Medium,Rollover,Car,Alcohol,40.76375103537572,-73.801052166623,Medium
+2025-05-19,10:47:53,Rain,Poor,Morning,Medium,Side,Truck,Speeding,40.838386644734605,-73.95871640085664,Medium
+2025-04-11,05:25:22,Snow,Moderate,Night,High,Side,Car,Speeding,40.749258604443945,-73.97758044852414,Medium
+2025-02-03,15:36:00,Clear,Moderate,Afternoon,Medium,Rollover,Car,Speeding,40.83803642677301,-73.70632629520007,Medium
+2025-02-06,23:52:20,Clear,Poor,Evening,Medium,Side,Motorcycle,Distracted Driving,40.86778470321573,-74.03014649923892,Medium
+2025-08-28,20:47:04,Clear,Moderate,Evening,Jam,Head-on,Car,Speeding,40.70318025266735,-73.87542308706111,High
+2025-01-17,08:54:34,Clear,Moderate,Morning,High,Rear-end,Truck,Distracted Driving,40.77241528504926,-73.87573960567258,Low
+2025-02-08,17:06:09,Clear,Construction,Afternoon,Medium,Side,Car,Running Red Light,40.84145669129956,-73.86515608839713,Low
+2025-08-01,02:41:58,Clear,Good,Night,Medium,Rear-end,Truck,Distracted Driving,40.58932909838487,-74.11750029226003,Low
+2025-06-16,13:55:07,Rain,Poor,Afternoon,Medium,Head-on,Car,Distracted Driving,40.676623734303085,-73.91418857756427,High
+2025-08-18,20:15:44,Clear,Good,Evening,Low,Other,Pedestrian,Speeding,40.62997691621436,-73.8107878120729,Low
+2025-08-28,16:46:03,Fog,Poor,Afternoon,Low,Side,Car,Weather,40.75601949358135,-73.9934312385291,Medium
+2025-03-04,10:59:24,Clear,Good,Morning,Medium,Head-on,Motorcycle,Weather,40.77809727441406,-74.00066137530499,Medium
+2025-02-01,08:50:41,Clear,Good,Morning,Medium,Rollover,Car,Weather,40.58710987776332,-74.13168930328199,Medium
+2025-07-22,20:18:28,Clear,Poor,Evening,Medium,Head-on,Truck,Other,40.65226561131272,-73.94306965445084,High
+2025-06-25,12:01:40,Fog,Moderate,Morning,Medium,Side,Motorcycle,Weather,40.654706979936144,-73.7399709313572,Low
+2025-06-29,20:39:33,Clear,Moderate,Evening,Medium,Head-on,Car,Alcohol,40.602285715462834,-73.86701792969723,Medium
+2025-04-25,18:35:45,Rain,Good,Afternoon,Medium,Rear-end,Car,Speeding,40.7859357852981,-73.71580672444422,Low
+2025-04-08,02:08:32,Clear,Moderate,Night,Medium,Rollover,Motorcycle,Mechanical Failure,40.58591565141733,-73.97960683793644,Medium
+2025-01-10,08:31:41,Snow,Moderate,Morning,Medium,Side,Truck,Speeding,40.90904903625268,-73.76067305638774,Low
+2025-03-22,08:55:21,Rain,Good,Morning,High,Rollover,Truck,Weather,40.69481454582144,-73.89173463790866,High
+2025-01-18,01:02:22,Snow,Moderate,Night,Low,Rollover,Car,Distracted Driving,40.80217500706308,-73.71481044059985,High
+2025-02-18,02:35:32,Clear,Moderate,Night,Medium,Rear-end,Car,Distracted Driving,40.77437780159783,-74.05300012988792,Low
+2025-04-23,13:44:50,Clear,Good,Afternoon,Low,Head-on,Truck,Weather,40.6986731806212,-73.78078441325215,Medium
+2025-03-21,08:01:40,Clear,Good,Morning,High,Rollover,Truck,Speeding,40.73811412400228,-74.02668069863304,Medium
+2025-06-24,06:13:44,Snow,Good,Night,Low,Rear-end,Truck,Distracted Driving,40.65961340644549,-74.07363756117756,Medium
+2025-01-12,14:39:31,Fog,Moderate,Afternoon,Medium,Side,Motorcycle,Mechanical Failure,40.856291270407326,-73.84553360473986,Low
+2025-08-01,01:23:49,Rain,Good,Night,Low,Head-on,Truck,Weather,40.73117903424113,-74.0393611492389,High
+2025-02-08,11:41:55,Rain,Moderate,Morning,Medium,Rollover,Car,Distracted Driving,40.84964843413798,-73.95428695394367,Medium
+2025-07-27,00:46:45,Fog,Construction,Night,High,Side,Car,Other,40.91752366189389,-73.97194642551858,High
+2025-07-04,05:47:04,Rain,Good,Night,Low,Rear-end,Car,Speeding,40.90195278588666,-73.86537155780161,Medium
+2025-08-02,16:40:12,Clear,Moderate,Afternoon,High,Other,Truck,Mechanical Failure,40.63419818463611,-73.86233184706043,Low
+2025-01-14,19:39:42,Rain,Poor,Evening,Low,Side,Motorcycle,Weather,40.8747370722854,-73.93876018907504,Medium
+2025-05-06,17:49:07,Clear,Moderate,Afternoon,Medium,Head-on,Car,Weather,40.90607754909225,-74.00037528229417,Medium
+2025-02-08,16:53:34,Snow,Moderate,Afternoon,High,Head-on,Car,Distracted Driving,40.73772451099309,-74.10310822143825,High
+2025-01-31,15:46:30,Snow,Good,Afternoon,High,Head-on,Car,Mechanical Failure,40.62979450095935,-73.81655303678677,High
+2025-02-02,22:37:10,Snow,Good,Evening,Medium,Side,Car,Distracted Driving,40.69912196378074,-74.08134026366984,Medium
+2025-05-16,05:28:25,Clear,Moderate,Night,Low,Side,Car,Speeding,40.62888558462155,-74.14031032986564,Low
+2025-02-06,18:45:02,Rain,Good,Afternoon,Jam,Other,Truck,Speeding,40.669335898156696,-73.77477972737974,Medium
+2025-02-23,16:09:30,Clear,Good,Afternoon,Low,Side,Car,Speeding,40.710496158614376,-74.14212666426853,Low
+2025-02-03,05:34:19,Rain,Good,Night,High,Rollover,Car,Distracted Driving,40.86550764979886,-74.11405819670168,High
+2025-08-07,05:47:04,Rain,Poor,Night,High,Other,Car,Speeding,40.64223281055556,-73.93082800549264,High
+2025-07-31,19:01:57,Clear,Moderate,Evening,Low,Side,Car,Speeding,40.81528957749075,-73.88223611599632,Low
+2025-02-26,10:41:12,Rain,Good,Morning,Low,Other,Truck,Alcohol,40.770127777427774,-73.79583387101214,Low
+2025-04-27,10:50:03,Clear,Good,Morning,Low,Other,Car,Distracted Driving,40.81413302675145,-73.90454169456862,Low
+2025-02-10,23:50:15,Clear,Good,Evening,Low,Head-on,Car,Speeding,40.82031757135386,-73.8487646561748,Medium
+2025-08-12,07:57:34,Rain,Poor,Morning,Low,Rear-end,Truck,Distracted Driving,40.83879931627661,-74.11413503450859,Medium
+2025-06-23,11:46:13,Clear,Moderate,Morning,Medium,Other,Motorcycle,Alcohol,40.65051671847272,-73.8348067522438,Low
+2025-06-17,09:48:07,Fog,Moderate,Morning,Medium,Rear-end,Truck,Distracted Driving,40.65185735023372,-73.96503901970058,Low
+2025-02-09,16:12:55,Clear,Poor,Afternoon,Low,Rollover,Motorcycle,Mechanical Failure,40.64438197951414,-74.05628066515939,Medium
+2025-01-14,23:17:48,Clear,Good,Evening,High,Rear-end,Truck,Speeding,40.569373338451925,-74.02503007614123,Medium
+2025-03-07,21:19:56,Clear,Good,Evening,Medium,Rear-end,Car,Distracted Driving,40.61416923699456,-74.08735154291719,Low
+2025-01-28,23:20:26,Clear,Good,Evening,Medium,Rollover,Truck,Weather,40.83641963453913,-73.87431550649482,Medium
+2025-03-22,04:37:35,Clear,Moderate,Night,High,Side,Motorcycle,Weather,40.80414867537933,-73.94259215970402,Medium
+2025-01-03,04:31:13,Clear,Moderate,Night,High,Head-on,Motorcycle,Alcohol,40.87879718167299,-73.72881968965767,High
+2025-02-01,16:32:26,Snow,Moderate,Afternoon,High,Other,Car,Mechanical Failure,40.81088109280722,-73.78104194071825,Medium
+2025-02-15,02:56:46,Rain,Good,Night,Low,Rollover,Motorcycle,Distracted Driving,40.900129860562224,-74.12976964992974,High
+2025-07-23,12:42:40,Clear,Good,Morning,Low,Rollover,Truck,Distracted Driving,40.77831005201006,-73.97804757761574,Medium
+2025-05-28,23:52:53,Rain,Construction,Evening,Medium,Rear-end,Bus,Mechanical Failure,40.90922976585151,-73.7846159260816,Medium
+2025-04-24,11:03:25,Snow,Poor,Morning,High,Rollover,Truck,Speeding,40.72300125603339,-74.11339143227465,High
+2025-07-09,23:54:16,Clear,Moderate,Evening,Low,Rollover,Motorcycle,Weather,40.67465098911625,-73.80656945172873,Medium
+2025-07-11,22:32:02,Clear,Good,Evening,Medium,Head-on,Motorcycle,Distracted Driving,40.78716782296668,-74.0029426167015,Medium
+2025-06-11,04:41:37,Snow,Good,Night,High,Other,Bus,Speeding,40.90147223926056,-73.75783447610671,Medium
+2025-04-09,07:18:55,Rain,Good,Morning,Low,Head-on,Truck,Distracted Driving,40.57980749577984,-73.98595747919683,Medium
+2025-06-16,07:39:12,Snow,Poor,Morning,Low,Rear-end,Motorcycle,Running Red Light,40.62921236337775,-73.93456607181076,Medium
+2025-04-30,03:04:18,Rain,Moderate,Night,Low,Rollover,Bus,Alcohol,40.573882687858834,-73.96141466147958,High
+2025-07-18,05:34:43,Fog,Good,Night,High,Rear-end,Truck,Speeding,40.62527762869581,-74.10753804128272,Medium
+2025-07-15,05:21:49,Clear,Poor,Night,High,Rollover,Motorcycle,Weather,40.75735225870577,-73.83997896154615,High
+2025-05-03,21:14:04,Clear,Good,Evening,Low,Other,Car,Distracted Driving,40.68578125815669,-73.79097234434958,Low
+2025-04-12,13:22:13,Clear,Moderate,Afternoon,Medium,Rollover,Car,Distracted Driving,40.75470782875211,-74.02664025853399,Medium
+2025-03-09,23:12:34,Rain,Moderate,Evening,Low,Side,Car,Mechanical Failure,40.91238739645782,-74.05071162210946,Medium
+2025-07-07,02:03:24,Snow,Good,Night,Medium,Other,Truck,Weather,40.74167697723222,-73.98227085742305,Medium
+2025-05-24,05:53:21,Rain,Good,Night,High,Rear-end,Bus,Running Red Light,40.57735618810118,-73.85193863815002,Medium
+2025-01-02,08:25:39,Fog,Moderate,Morning,Jam,Rear-end,Motorcycle,Speeding,40.89807840747866,-73.9362648327244,Medium
+2025-07-13,01:17:48,Clear,Good,Night,Low,Head-on,Car,Weather,40.700188306957145,-73.90293101862999,Medium
+2025-03-18,15:39:26,Clear,Good,Afternoon,High,Head-on,Motorcycle,Running Red Light,40.65387452258878,-73.83557352611518,Medium
+2025-01-19,02:38:38,Fog,Poor,Night,Medium,Rollover,Car,Distracted Driving,40.59292684917328,-73.91032450341156,High
+2025-03-29,12:35:16,Clear,Good,Morning,Medium,Side,Car,Distracted Driving,40.63967929007022,-73.75322364168527,Low
+2025-07-03,08:27:20,Rain,Good,Morning,Low,Side,Motorcycle,Mechanical Failure,40.606049470206464,-74.00919716086624,Low
+2025-07-22,02:58:04,Clear,Good,Night,Low,Side,Car,Speeding,40.83936089348146,-74.08654566099266,Low
+2025-01-13,16:59:56,Clear,Poor,Afternoon,High,Rear-end,Car,Weather,40.85021290272756,-73.98212203391371,Medium
+2025-06-15,18:58:05,Clear,Good,Afternoon,High,Other,Pedestrian,Mechanical Failure,40.77648048148034,-74.00979067973391,Low
+2025-02-09,12:14:14,Clear,Construction,Morning,High,Other,Car,Other,40.66356622520317,-73.97311495253,Medium
+2025-01-19,17:55:15,Clear,Good,Afternoon,Low,Side,Motorcycle,Weather,40.55269100314708,-74.02042278366532,Low
+2025-04-27,18:44:11,Rain,Good,Afternoon,High,Side,Truck,Speeding,40.72039855007968,-73.97617310602568,Medium
+2025-08-25,05:43:31,Fog,Poor,Night,High,Rollover,Car,Mechanical Failure,40.59976579461273,-74.02417002365542,High
+2025-03-21,11:33:38,Clear,Moderate,Morning,High,Side,Truck,Distracted Driving,40.75393969303023,-73.96345270108343,Low
+2025-04-28,16:07:14,Rain,Poor,Afternoon,High,Rear-end,Car,Speeding,40.60908511961097,-73.81260470336713,Medium
+2025-08-10,04:34:23,Clear,Good,Night,High,Other,Car,Distracted Driving,40.72662468902215,-74.04289396464664,Medium
+2025-08-01,10:59:35,Rain,Poor,Morning,Low,Rollover,Bicycle,Alcohol,40.6194888776963,-73.87093827801769,High
+2025-01-03,04:09:31,Clear,Construction,Night,Medium,Rear-end,Truck,Speeding,40.84999966169852,-74.10551771183003,Medium
+2025-07-27,18:03:58,Clear,Poor,Afternoon,Medium,Other,Car,Speeding,40.60737209692259,-73.99109011618548,Low
+2025-06-15,22:59:28,Clear,Construction,Evening,High,Other,Car,Distracted Driving,40.873542350509474,-73.718817129811,Medium
+2025-08-04,23:29:52,Clear,Good,Evening,Medium,Side,Car,Alcohol,40.85580524678287,-73.87653132468166,Low
+2025-06-21,18:17:40,Clear,Moderate,Afternoon,Low,Rollover,Car,Distracted Driving,40.74175335522289,-73.77524750861518,Medium
+2025-01-21,02:31:35,Clear,Moderate,Night,Medium,Head-on,Car,Running Red Light,40.90207751543944,-73.89575436586304,Medium
+2025-01-26,06:22:06,Fog,Moderate,Night,Medium,Side,Motorcycle,Distracted Driving,40.63964402924364,-73.78364133599264,Medium
+2025-01-31,04:16:51,Clear,Good,Night,Medium,Rollover,Pedestrian,Weather,40.7452165626026,-74.0876992957699,Medium
+2025-02-21,16:19:10,Clear,Good,Afternoon,Low,Head-on,Car,Speeding,40.80719848813681,-73.90657869056086,Medium
+2025-05-20,01:47:35,Clear,Moderate,Night,Low,Rollover,Truck,Distracted Driving,40.86729873194768,-73.72485518034493,Medium
+2025-08-21,02:15:25,Clear,Construction,Night,Low,Rollover,Bicycle,Distracted Driving,40.82523675104873,-74.0422018929081,High
+2025-07-05,17:35:57,Snow,Poor,Afternoon,Medium,Head-on,Motorcycle,Distracted Driving,40.91142684909407,-74.06158775711772,High
+2025-03-06,08:09:16,Clear,Good,Morning,Medium,Head-on,Motorcycle,Running Red Light,40.91056495680723,-73.77479525091562,Medium
+2025-05-22,07:43:43,Rain,Good,Morning,Jam,Rollover,Motorcycle,Speeding,40.84594754204857,-73.92242321872816,High
+2025-05-07,23:26:01,Clear,Good,Evening,Medium,Side,Car,Distracted Driving,40.68029471895054,-73.94543964161565,Low
+2025-01-12,09:22:36,Clear,Good,Morning,Medium,Head-on,Motorcycle,Speeding,40.83465231786512,-73.75537312243888,Medium
+2025-05-14,15:14:41,Clear,Good,Afternoon,High,Side,Car,Running Red Light,40.62496780925758,-74.09827149988685,Low
+2025-03-06,08:14:37,Clear,Good,Morning,Medium,Rollover,Car,Weather,40.581971389111246,-73.82241065491444,Medium
+2025-01-18,22:55:30,Snow,Good,Evening,Medium,Side,Truck,Speeding,40.7989738732612,-73.89172421912521,Medium
+2025-06-19,14:05:53,Rain,Good,Afternoon,Medium,Other,Truck,Distracted Driving,40.74918450978938,-73.77541061505889,Low
+2025-06-26,08:35:07,Clear,Good,Morning,Medium,Other,Motorcycle,Distracted Driving,40.698167909212245,-74.1176442620775,Low
+2025-07-23,08:19:47,Rain,Poor,Morning,Low,Side,Bicycle,Mechanical Failure,40.76892175522684,-74.09874242799067,Medium
+2025-04-13,20:42:04,Rain,Good,Evening,Medium,Head-on,Pedestrian,Mechanical Failure,40.571583310745375,-73.7558608028385,High
+2025-01-18,18:10:27,Clear,Good,Afternoon,High,Side,Bicycle,Distracted Driving,40.83891351758293,-73.88982306553676,Low
+2025-04-09,14:36:32,Clear,Moderate,Afternoon,Jam,Rollover,Car,Alcohol,40.8500995236822,-73.8001924717022,Medium
+2025-02-04,05:09:11,Clear,Poor,Night,Low,Other,Truck,Weather,40.63588031626552,-73.76821649053394,Medium
+2025-03-03,05:22:10,Clear,Moderate,Night,Jam,Other,Car,Distracted Driving,40.58762045167946,-73.92448116673492,Medium
+2025-07-09,03:34:58,Rain,Moderate,Night,Jam,Rear-end,Motorcycle,Weather,40.59696873668791,-74.03435379630899,Medium
+2025-07-15,17:34:31,Clear,Good,Afternoon,Low,Head-on,Motorcycle,Distracted Driving,40.61634183795441,-73.8523958246009,Medium
+2025-07-31,13:39:13,Rain,Poor,Afternoon,Low,Rear-end,Truck,Mechanical Failure,40.778958333712254,-73.9380414904916,Medium
+2025-08-11,06:15:21,Clear,Moderate,Night,High,Other,Car,Speeding,40.85555225919912,-73.90342938954538,Medium
+2025-07-07,08:41:31,Clear,Good,Morning,High,Side,Car,Distracted Driving,40.73934967839615,-73.96893440223904,Low
+2025-01-15,17:01:36,Rain,Poor,Afternoon,Medium,Head-on,Truck,Weather,40.91545993546338,-73.78969293960812,High
+2025-08-30,15:30:52,Clear,Moderate,Afternoon,High,Other,Motorcycle,Mechanical Failure,40.70729325259737,-73.93704931875223,Low
+2025-05-29,22:03:39,Clear,Good,Evening,High,Side,Car,Alcohol,40.74163104144733,-73.98994464618606,Medium
+2025-05-03,21:12:19,Clear,Good,Evening,High,Side,Car,Weather,40.82380277972593,-74.03966610685302,Medium
+2025-04-14,14:17:48,Clear,Good,Afternoon,High,Rollover,Car,Speeding,40.7084345967206,-74.10733627789868,Medium
+2025-02-03,07:46:30,Rain,Poor,Morning,High,Other,Car,Weather,40.88348753611053,-74.09511150456383,Medium
+2025-05-11,02:46:54,Clear,Good,Night,High,Head-on,Car,Speeding,40.87155805157505,-73.77161977739033,High
+2025-07-09,18:01:27,Clear,Good,Afternoon,Medium,Rear-end,Car,Alcohol,40.70192178602522,-73.83150648629143,Low
+2025-04-06,21:22:40,Clear,Poor,Evening,Medium,Rollover,Car,Distracted Driving,40.91636393800482,-73.75233503393112,High
+2025-06-27,10:11:42,Rain,Moderate,Morning,Low,Side,Motorcycle,Speeding,40.65214660757537,-74.02944696789088,Low
+2025-07-01,07:17:02,Snow,Moderate,Morning,High,Rollover,Bicycle,Alcohol,40.7848554719276,-73.74777594800739,High
+2025-03-17,16:17:35,Rain,Poor,Afternoon,Low,Side,Bicycle,Other,40.67570408424784,-73.95928097530751,Medium
+2025-01-07,14:27:31,Clear,Good,Afternoon,Medium,Rear-end,Motorcycle,Alcohol,40.64760011790586,-74.06634147409072,Low
+2025-02-14,04:17:22,Rain,Good,Night,Medium,Rear-end,Car,Weather,40.90941953667178,-73.81295916501779,Medium
+2025-01-08,08:33:25,Rain,Poor,Morning,Medium,Side,Motorcycle,Weather,40.74091411189747,-74.08554759898543,Medium
+2025-05-12,02:38:30,Snow,Good,Night,Low,Head-on,Motorcycle,Alcohol,40.81051072328324,-73.95006430881122,High
+2025-03-03,22:37:06,Rain,Moderate,Evening,Medium,Other,Car,Weather,40.80080493819353,-73.86374670068413,Medium
+2025-08-14,19:37:56,Fog,Moderate,Evening,Medium,Other,Car,Distracted Driving,40.6202747168631,-74.01483808022452,Medium
+2025-04-14,02:33:05,Snow,Moderate,Night,Medium,Rear-end,Motorcycle,Distracted Driving,40.59405716761361,-73.88024580200597,Medium
+2025-05-10,01:36:27,Fog,Good,Night,Medium,Rear-end,Car,Alcohol,40.7671455229648,-74.12982797863093,Medium
+2025-08-19,23:06:01,Rain,Poor,Evening,Low,Other,Bus,Speeding,40.67651273269388,-74.09980021446611,Medium
+2025-08-23,04:46:06,Snow,Good,Night,Medium,Side,Car,Distracted Driving,40.854589790763086,-74.05568497773815,Medium
+2025-03-26,03:51:16,Clear,Poor,Night,Medium,Other,Car,Other,40.90251624236724,-73.83203447349382,Medium
+2025-07-16,16:49:46,Clear,Good,Afternoon,Medium,Head-on,Motorcycle,Speeding,40.69525116654917,-73.96844638889021,Medium
+2025-05-08,07:17:57,Clear,Good,Morning,High,Rollover,Truck,Running Red Light,40.61050275194306,-73.95621106302178,Medium
+2025-05-11,20:20:31,Rain,Moderate,Evening,Low,Other,Truck,Mechanical Failure,40.81535341506156,-74.01817604895753,Medium
+2025-06-22,20:00:28,Rain,Good,Evening,Medium,Rear-end,Bus,Mechanical Failure,40.70422580645219,-73.8920033947922,Medium
+2025-07-13,05:12:12,Clear,Poor,Night,Jam,Rollover,Car,Running Red Light,40.8977196901786,-74.10120889664793,High
+2025-08-07,17:41:46,Rain,Good,Afternoon,Low,Head-on,Car,Weather,40.62143674130479,-73.70133960319112,Medium
+2025-01-24,23:45:23,Clear,Moderate,Evening,Low,Head-on,Truck,Speeding,40.674751054757046,-73.95095651463694,Medium
+2025-03-22,21:50:07,Fog,Good,Evening,Low,Side,Motorcycle,Other,40.5886739804788,-74.00916486228479,Medium
+2025-08-12,13:29:44,Clear,Moderate,Afternoon,Low,Other,Car,Distracted Driving,40.60230217995888,-74.1021349667648,Low
+2025-05-20,15:39:29,Rain,Good,Afternoon,Low,Rear-end,Bicycle,Distracted Driving,40.721397592222814,-74.1408139471917,Low
+2025-08-10,13:59:31,Clear,Moderate,Afternoon,Medium,Side,Car,Speeding,40.71834026717882,-74.07609361702087,Low
+2025-06-08,10:38:13,Clear,Poor,Morning,Medium,Side,Car,Distracted Driving,40.79178483349504,-73.77386263496636,Low
+2025-08-21,07:54:26,Clear,Moderate,Morning,High,Side,Motorcycle,Distracted Driving,40.58956634349342,-73.83437325517127,Low
+2025-04-29,00:46:25,Clear,Moderate,Night,High,Side,Car,Speeding,40.67309356002899,-73.74922242592994,Medium
+2025-04-20,15:21:57,Rain,Moderate,Afternoon,Low,Rollover,Car,Speeding,40.59067579092103,-74.05658957111554,Medium
+2025-07-23,16:24:28,Clear,Good,Afternoon,High,Rollover,Truck,Distracted Driving,40.57665366225685,-73.95943057472944,Medium
+2025-04-20,12:32:23,Clear,Good,Morning,Medium,Other,Motorcycle,Distracted Driving,40.55359857379854,-73.84401076842752,Low
+2025-03-02,12:05:28,Clear,Moderate,Morning,Low,Head-on,Car,Speeding,40.71444333064549,-73.76119609239689,Medium
+2025-05-13,06:09:38,Clear,Good,Night,Medium,Other,Truck,Other,40.69354754335201,-74.06309274027979,Low
+2025-02-23,21:48:13,Clear,Poor,Evening,High,Other,Car,Distracted Driving,40.61826145238585,-74.11084703582478,Medium
+2025-04-17,02:10:43,Rain,Good,Night,Medium,Other,Truck,Speeding,40.57183988300356,-74.02524063200087,Medium
+2025-07-22,12:43:20,Snow,Poor,Morning,Low,Rollover,Car,Mechanical Failure,40.76051636029236,-74.04067159992223,High
+2025-02-28,11:14:06,Clear,Good,Morning,High,Other,Motorcycle,Speeding,40.90375521035638,-74.09064257303505,Low
+2025-06-27,10:18:13,Rain,Good,Morning,Low,Side,Car,Running Red Light,40.68621762393423,-74.03276456114942,Low
+2025-07-06,01:59:39,Clear,Good,Night,Medium,Side,Car,Distracted Driving,40.68902986004756,-73.94427123760087,Low
+2025-03-14,13:28:44,Clear,Moderate,Afternoon,High,Other,Bicycle,Running Red Light,40.64519825000573,-74.03462660901886,Low
+2025-07-13,15:16:05,Clear,Poor,Afternoon,Low,Side,Truck,Alcohol,40.82217499940578,-73.7690329892149,Low
+2025-02-19,07:13:42,Clear,Good,Morning,Medium,Rear-end,Car,Speeding,40.72651855347691,-73.91764062680008,Low
+2025-05-13,08:15:23,Clear,Moderate,Morning,High,Side,Car,Speeding,40.9167545250528,-73.9017901239387,Low
+2025-05-05,10:35:36,Clear,Good,Morning,Medium,Side,Motorcycle,Alcohol,40.55950340386274,-73.75213791652025,Low
+2025-07-30,16:18:08,Rain,Good,Afternoon,Medium,Rear-end,Truck,Speeding,40.69642772395581,-74.10376005095574,Low
+2025-04-28,11:53:27,Clear,Moderate,Morning,Medium,Rollover,Motorcycle,Speeding,40.88400526588015,-73.93341787865931,Medium
+2025-08-29,20:10:35,Snow,Moderate,Evening,Medium,Side,Car,Distracted Driving,40.83224668056589,-74.07203755052426,Medium
+2025-07-16,01:54:29,Fog,Good,Night,Medium,Side,Motorcycle,Speeding,40.60953424247945,-73.74103368054816,Medium
+2025-04-12,07:22:47,Clear,Good,Morning,Medium,Other,Car,Distracted Driving,40.83621134835225,-73.77051009758245,Low
+2025-04-02,10:14:44,Clear,Good,Morning,High,Rollover,Bus,Speeding,40.79959003091699,-73.79963539622867,Medium
+2025-04-14,19:48:32,Clear,Good,Evening,Low,Rear-end,Car,Weather,40.63917837626634,-73.83965571616584,Low
+2025-05-04,20:23:15,Clear,Moderate,Evening,Medium,Other,Car,Alcohol,40.88484823360976,-73.70650295229967,Low
+2025-08-07,14:23:54,Rain,Good,Afternoon,Low,Rollover,Truck,Weather,40.79001272661456,-73.72968029330863,Medium
+2025-06-25,05:40:49,Rain,Moderate,Night,Low,Head-on,Car,Speeding,40.70683319725356,-73.86981229128384,High
+2025-08-22,01:48:28,Clear,Good,Night,Medium,Head-on,Car,Distracted Driving,40.78414684583021,-74.10423397234636,Medium
+2025-04-28,00:33:27,Clear,Good,Night,Medium,Side,Truck,Speeding,40.872069614151286,-74.04776470115465,Low
+2025-07-26,01:29:29,Clear,Good,Night,Medium,Side,Bicycle,Speeding,40.84779779872232,-73.74143485816239,Low
+2025-07-17,15:00:00,Rain,Good,Afternoon,Jam,Head-on,Motorcycle,Mechanical Failure,40.78923754169566,-73.73249355715076,High
+2025-08-23,16:08:08,Clear,Good,Afternoon,Medium,Head-on,Car,Speeding,40.789089258085504,-73.98354219560161,Medium
+2025-03-29,16:03:07,Clear,Good,Afternoon,Low,Rear-end,Car,Speeding,40.68199241949008,-73.80269884147177,Low
+2025-01-18,08:55:48,Snow,Good,Morning,Low,Other,Car,Speeding,40.67802972508989,-74.12449595059859,Low
+2025-03-01,14:25:34,Clear,Good,Afternoon,Jam,Side,Motorcycle,Running Red Light,40.86193905249615,-74.01588341264132,Low
+2025-08-10,00:31:05,Clear,Construction,Night,High,Side,Car,Distracted Driving,40.66456047038268,-74.01877014978466,Medium
+2025-04-15,22:53:46,Clear,Moderate,Evening,High,Rear-end,Motorcycle,Other,40.77478750277288,-73.7616283804514,Medium
+2025-08-16,13:17:23,Clear,Poor,Afternoon,Medium,Other,Bicycle,Alcohol,40.67525006484514,-73.76823028759732,Low
+2025-01-23,13:40:13,Clear,Construction,Afternoon,Medium,Head-on,Car,Distracted Driving,40.71312277745318,-73.78161101515771,Medium
+2025-01-17,09:34:02,Clear,Poor,Morning,Medium,Other,Car,Other,40.70122859346222,-73.74248967456232,Low
+2025-06-08,21:12:12,Rain,Good,Evening,Medium,Other,Motorcycle,Distracted Driving,40.79786818695468,-73.71446257627704,Medium
+2025-08-02,08:39:29,Rain,Moderate,Morning,High,Other,Motorcycle,Mechanical Failure,40.88987218755731,-73.89945978905371,Medium
+2025-07-23,17:15:59,Clear,Good,Afternoon,Medium,Rollover,Car,Distracted Driving,40.69493215640146,-73.71005246683832,Medium
+2025-07-20,11:27:22,Clear,Poor,Morning,High,Rollover,Car,Weather,40.57160518075699,-73.77776319968729,High
+2025-04-09,09:06:10,Rain,Good,Morning,Low,Rollover,Car,Mechanical Failure,40.81588193158542,-73.90464901132665,Medium
+2025-08-17,00:42:33,Snow,Poor,Night,Low,Side,Motorcycle,Weather,40.61338682891813,-73.97082204979158,Medium
+2025-04-15,13:59:09,Clear,Poor,Afternoon,Low,Rear-end,Car,Distracted Driving,40.91578578968318,-73.96370416397511,Low
+2025-08-15,22:53:05,Clear,Moderate,Evening,Low,Head-on,Truck,Speeding,40.80697406381066,-73.72757019138048,Medium
+2025-03-22,19:58:16,Fog,Moderate,Evening,Low,Rollover,Truck,Other,40.5824019423885,-73.94015489121705,High
+2025-01-21,09:01:02,Rain,Moderate,Morning,High,Head-on,Car,Distracted Driving,40.74486257798029,-74.06957553381478,High
+2025-07-16,09:48:48,Clear,Good,Morning,High,Rear-end,Car,Weather,40.65458228790056,-73.94793426518112,Low
+2025-06-09,08:10:53,Clear,Good,Morning,Low,Head-on,Car,Speeding,40.74788638894884,-74.10542496609636,Medium
+2025-01-31,16:10:35,Rain,Moderate,Afternoon,Medium,Other,Pedestrian,Distracted Driving,40.55811430070109,-74.06740622430546,Low
+2025-01-16,22:52:49,Clear,Good,Evening,Medium,Side,Car,Speeding,40.78302640985712,-73.87311255689207,Low
+2025-04-26,19:02:40,Rain,Good,Evening,Medium,Other,Car,Weather,40.894472889570174,-74.07669378801816,Medium
+2025-08-15,01:43:59,Rain,Good,Night,Medium,Head-on,Car,Speeding,40.90786527866161,-73.9990504670749,High
+2025-07-07,15:48:57,Rain,Poor,Afternoon,Jam,Other,Car,Speeding,40.64880196495695,-73.91385712069044,Medium
+2025-05-01,22:58:15,Clear,Good,Evening,Low,Other,Pedestrian,Alcohol,40.65663509642961,-73.97976880140683,Low
+2025-02-27,15:41:02,Snow,Good,Afternoon,Medium,Rollover,Bus,Distracted Driving,40.74666861487297,-73.86591330020231,Medium
+2025-06-10,07:55:23,Clear,Poor,Morning,Medium,Rollover,Car,Alcohol,40.67056330874457,-73.76684864745592,Medium
+2025-07-07,16:21:05,Clear,Construction,Afternoon,Low,Head-on,Car,Distracted Driving,40.69002698561907,-73.95707221074325,Medium
+2025-07-06,19:56:12,Clear,Good,Evening,Medium,Other,Car,Distracted Driving,40.64929536629015,-73.84491019999432,Low
+2025-05-12,20:32:46,Clear,Good,Evening,Low,Rollover,Truck,Running Red Light,40.572871806722446,-73.91555174330638,Medium
+2025-06-26,00:03:54,Clear,Moderate,Night,Low,Side,Car,Distracted Driving,40.60042695869789,-73.74716360021728,Low
+2025-01-24,05:49:47,Rain,Good,Night,High,Side,Truck,Speeding,40.84743425954336,-73.79629333600921,Medium
+2025-06-17,03:30:44,Clear,Moderate,Night,Medium,Other,Car,Running Red Light,40.66137965220543,-74.13991658158429,Low
+2025-02-18,10:10:39,Clear,Construction,Morning,Medium,Rear-end,Motorcycle,Mechanical Failure,40.766420805048185,-73.89147045521382,Low
+2025-01-08,00:10:09,Clear,Good,Night,High,Other,Truck,Distracted Driving,40.69618727861547,-73.75197456653068,Medium
+2025-05-16,05:33:02,Clear,Good,Night,High,Other,Car,Running Red Light,40.79334065050328,-73.78239678322761,Medium
+2025-03-25,09:19:36,Clear,Good,Morning,Low,Rollover,Car,Alcohol,40.84706468901924,-74.00770307533594,Medium
+2025-03-22,07:41:45,Clear,Good,Morning,Medium,Rollover,Motorcycle,Speeding,40.65872187994108,-74.08638122497786,Medium
+2025-06-04,20:36:35,Snow,Good,Evening,Medium,Head-on,Truck,Speeding,40.75802706903436,-73.95191865154234,High
+2025-02-21,05:30:19,Clear,Good,Night,High,Side,Motorcycle,Speeding,40.801557437088825,-73.87261423095808,Medium
+2025-08-06,03:53:24,Clear,Good,Night,Low,Other,Motorcycle,Distracted Driving,40.64778553184862,-74.14790498829495,Low
+2025-05-10,06:01:03,Clear,Good,Night,High,Rear-end,Car,Distracted Driving,40.61850612431703,-74.02280526609765,Medium
+2025-03-23,23:05:30,Clear,Moderate,Evening,High,Head-on,Car,Distracted Driving,40.91303658267992,-73.71184742080641,High
+2025-04-27,02:04:00,Fog,Good,Night,Low,Head-on,Car,Running Red Light,40.79399997688161,-73.97863433924664,High
+2025-06-05,12:25:35,Clear,Poor,Morning,Low,Side,Car,Weather,40.70860169060534,-73.98574362176336,Low
+2025-01-01,12:06:25,Clear,Good,Morning,Medium,Side,Bicycle,Running Red Light,40.61552577688881,-74.0879929814127,Low
+2025-06-12,06:21:55,Clear,Moderate,Night,Low,Rear-end,Car,Speeding,40.55468300497839,-73.76031662082066,Low
+2025-01-20,23:21:30,Clear,Moderate,Evening,High,Rollover,Motorcycle,Speeding,40.78267072176671,-74.09930611095449,High
+2025-05-29,14:30:20,Clear,Poor,Afternoon,High,Rollover,Car,Speeding,40.694745273434336,-73.77120781630403,High
+2025-01-07,08:33:59,Clear,Good,Morning,Low,Side,Car,Alcohol,40.82895652137856,-73.90175645428135,Low
+2025-02-01,03:34:36,Clear,Moderate,Night,Low,Side,Car,Distracted Driving,40.66443854986645,-73.93284071732555,Low
+2025-08-19,22:55:42,Clear,Good,Evening,Medium,Other,Motorcycle,Other,40.85859643400195,-73.77768580795792,Low
+2025-04-14,00:08:11,Snow,Good,Night,Low,Side,Bicycle,Alcohol,40.58827956497083,-74.00584192630687,Medium
+2025-03-13,06:12:18,Rain,Good,Night,Medium,Other,Bus,Mechanical Failure,40.81710793924538,-74.06567159914698,Medium
+2025-03-14,00:15:14,Rain,Good,Night,High,Other,Motorcycle,Alcohol,40.767169859017976,-74.00180693138736,Medium
+2025-01-17,20:17:45,Rain,Moderate,Evening,Jam,Other,Car,Alcohol,40.81897754745059,-73.81347910496677,Medium
+2025-04-09,13:11:56,Rain,Good,Afternoon,Low,Other,Motorcycle,Distracted Driving,40.689856022710615,-73.80846696967161,Low
+2025-04-10,08:49:37,Rain,Good,Morning,Low,Rear-end,Truck,Distracted Driving,40.58192106836141,-73.79662847034047,Low
+2025-02-09,21:57:58,Snow,Moderate,Evening,Medium,Other,Car,Distracted Driving,40.585596124415154,-73.72047103672777,Medium
+2025-08-12,06:24:00,Clear,Good,Night,Medium,Rear-end,Car,Mechanical Failure,40.77969751154945,-74.12288421910773,Low
+2025-08-09,00:16:41,Fog,Poor,Night,Medium,Rollover,Motorcycle,Alcohol,40.78822939695386,-73.85062337303455,High
+2025-05-24,06:23:46,Clear,Good,Night,High,Other,Bus,Mechanical Failure,40.82094887847183,-74.09898482019449,Medium
+2025-01-15,15:08:54,Rain,Poor,Afternoon,High,Rear-end,Truck,Distracted Driving,40.63764992650669,-73.94426995124452,Medium
+2025-02-05,18:35:30,Snow,Good,Afternoon,Low,Other,Truck,Distracted Driving,40.80658792425223,-73.89784375868412,Low
+2025-01-17,10:40:58,Snow,Poor,Morning,Medium,Side,Car,Speeding,40.72241031574848,-73.89382108485674,Medium
+2025-06-12,04:36:43,Clear,Moderate,Night,High,Head-on,Car,Speeding,40.78478971575765,-73.72763357147814,High
+2025-07-17,14:12:42,Rain,Good,Afternoon,Jam,Rollover,Motorcycle,Distracted Driving,40.625627858984096,-74.07310083390945,High
+2025-06-22,19:22:41,Clear,Moderate,Evening,Low,Rollover,Car,Other,40.8003736843686,-73.85917727689284,Medium
+2025-02-14,23:33:22,Clear,Good,Evening,Medium,Rear-end,Car,Weather,40.68262629543942,-74.03138486860699,Low
+2025-08-11,08:29:14,Clear,Good,Morning,Medium,Other,Truck,Running Red Light,40.89071897402012,-74.09994235826902,Low
+2025-07-02,13:30:29,Snow,Good,Afternoon,Medium,Side,Motorcycle,Alcohol,40.89249094656531,-74.13478080057216,Low
+2025-05-11,19:51:11,Clear,Moderate,Evening,Low,Other,Car,Running Red Light,40.70635555042045,-74.12796287707152,Low
+2025-03-01,23:25:30,Rain,Good,Evening,Medium,Side,Truck,Mechanical Failure,40.56028333228782,-74.13136871336708,Medium
+2025-01-16,20:21:17,Snow,Good,Evening,High,Head-on,Car,Distracted Driving,40.57018465250542,-74.01195348391818,High
+2025-07-23,01:52:30,Clear,Moderate,Night,Low,Rear-end,Motorcycle,Other,40.72341532487478,-73.78916641622423,Low
+2025-04-16,23:28:04,Rain,Good,Evening,Low,Rear-end,Pedestrian,Distracted Driving,40.77323603291583,-74.0075273334551,Medium
+2025-03-12,15:58:45,Clear,Good,Afternoon,Low,Rear-end,Car,Speeding,40.89368923586255,-73.95731943284854,Low
+2025-05-02,00:47:59,Rain,Moderate,Night,Low,Head-on,Car,Weather,40.791245227052514,-74.06951449182756,High
+2025-03-27,14:24:33,Clear,Moderate,Afternoon,Low,Rear-end,Car,Speeding,40.81870351073674,-73.85021152662176,Low
+2025-05-23,17:32:22,Clear,Poor,Afternoon,High,Side,Car,Speeding,40.63551878843147,-73.92568497009296,Medium
+2025-06-25,01:30:40,Snow,Good,Night,Low,Rear-end,Truck,Weather,40.603014752283805,-73.76597755335486,Medium
+2025-01-20,23:29:59,Rain,Good,Evening,Medium,Side,Motorcycle,Running Red Light,40.80393141652514,-74.1373223249127,Medium
+2025-04-27,23:15:42,Rain,Moderate,Evening,Low,Other,Bicycle,Mechanical Failure,40.87264693969063,-74.0830932071799,Medium
+2025-03-11,11:18:16,Clear,Good,Morning,Medium,Rollover,Bicycle,Distracted Driving,40.64057337537383,-73.9668630363074,Medium
+2025-08-09,00:48:42,Clear,Good,Night,Medium,Other,Car,Speeding,40.67696015480016,-74.06215635849952,Low
+2025-08-26,17:38:58,Rain,Moderate,Afternoon,High,Head-on,Motorcycle,Mechanical Failure,40.76695412667461,-73.84467626113762,High
+2025-01-29,03:55:51,Fog,Moderate,Night,High,Rear-end,Car,Mechanical Failure,40.711784165252745,-74.1065203679924,Medium
+2025-01-07,11:16:21,Rain,Good,Morning,Low,Side,Car,Weather,40.83644174747543,-73.78082966874753,Low
+2025-04-25,17:05:42,Clear,Poor,Afternoon,Low,Rollover,Car,Distracted Driving,40.62606817466148,-73.97124308801769,Medium
+2025-02-18,01:18:43,Snow,Moderate,Night,High,Rollover,Motorcycle,Weather,40.84770632937938,-73.77098591220359,High
+2025-01-08,13:13:36,Rain,Good,Afternoon,Medium,Rollover,Car,Distracted Driving,40.77385910096509,-73.72200711759302,Medium
+2025-04-08,14:56:50,Rain,Poor,Afternoon,Low,Rear-end,Car,Distracted Driving,40.79865383012561,-73.7539900872152,Medium
+2025-06-05,15:59:23,Rain,Construction,Afternoon,Low,Head-on,Truck,Speeding,40.55737490183429,-73.90568764253018,High
+2025-06-21,15:05:58,Clear,Construction,Afternoon,Low,Side,Car,Other,40.89614287562184,-73.99577594159992,Low
+2025-08-26,18:01:11,Rain,Moderate,Afternoon,High,Head-on,Truck,Other,40.71276686424752,-73.8530130479486,High
+2025-07-02,22:22:29,Clear,Moderate,Evening,Medium,Rear-end,Car,Distracted Driving,40.73013397278829,-74.12788495522018,Low
+2025-07-11,18:01:36,Snow,Good,Afternoon,Medium,Rollover,Car,Distracted Driving,40.81536602756094,-73.89175885239176,Medium
+2025-07-20,03:47:05,Clear,Good,Night,Medium,Head-on,Car,Speeding,40.81203800990763,-73.96744784620412,Medium
+2025-06-06,15:36:13,Snow,Moderate,Afternoon,Low,Head-on,Car,Distracted Driving,40.652075555495294,-73.89252265522056,Medium
+2025-01-14,05:04:12,Clear,Moderate,Night,Low,Other,Motorcycle,Distracted Driving,40.81266292515932,-73.81517424333396,Low
+2025-04-23,20:20:33,Fog,Good,Evening,Medium,Side,Car,Alcohol,40.56449427162041,-74.13774680770727,Medium
+2025-04-14,23:05:39,Clear,Good,Evening,Low,Other,Car,Speeding,40.78208353156692,-73.78835345674999,Low
+2025-03-29,07:53:09,Clear,Moderate,Morning,Medium,Other,Motorcycle,Distracted Driving,40.75314764808156,-73.9015384454693,Low
+2025-08-27,07:13:46,Rain,Good,Morning,High,Rear-end,Car,Distracted Driving,40.89709154602098,-73.8924512237859,Medium
+2025-02-06,09:25:11,Clear,Good,Morning,Low,Rear-end,Motorcycle,Distracted Driving,40.83039487779127,-74.01494378235823,Low
+2025-04-18,22:37:23,Clear,Moderate,Evening,Medium,Side,Bus,Alcohol,40.5913312652262,-74.0732676386549,Low
+2025-05-28,20:30:15,Rain,Good,Evening,Medium,Side,Bus,Running Red Light,40.60310227573263,-74.02732389731631,Medium
+2025-06-18,03:56:56,Snow,Good,Night,Low,Side,Car,Distracted Driving,40.570229036631694,-74.01768655825042,Medium
+2025-08-28,02:12:19,Clear,Good,Night,Medium,Side,Car,Mechanical Failure,40.57563663514341,-73.85658884386416,Low
+2025-08-02,08:51:44,Clear,Good,Morning,Low,Rear-end,Motorcycle,Mechanical Failure,40.695278680279394,-73.79198658944804,Low
+2025-06-27,06:20:31,Clear,Moderate,Night,High,Side,Car,Speeding,40.791011773327725,-73.9048263140016,Medium
+2025-01-17,15:13:08,Rain,Moderate,Afternoon,Low,Other,Car,Speeding,40.56096664577513,-74.11324168448603,Low
+2025-02-20,01:17:40,Rain,Good,Night,High,Other,Pedestrian,Distracted Driving,40.72130038439366,-74.0739937066971,Medium
+2025-03-16,08:32:22,Rain,Good,Morning,High,Head-on,Car,Running Red Light,40.91555782122034,-73.84949023809966,High
+2025-01-29,14:59:59,Fog,Moderate,Afternoon,Medium,Rollover,Car,Distracted Driving,40.91795166886152,-73.96668933900308,Medium
+2025-05-18,21:42:50,Rain,Construction,Evening,Low,Head-on,Bicycle,Running Red Light,40.69417727844002,-73.9333523080899,High
+2025-01-20,02:15:29,Clear,Moderate,Night,Medium,Rollover,Motorcycle,Distracted Driving,40.72446442961727,-73.86934989128453,Medium
+2025-01-12,15:48:13,Rain,Poor,Afternoon,Jam,Other,Car,Distracted Driving,40.63299614644314,-74.07983055666139,Medium
+2025-01-28,02:52:16,Clear,Moderate,Night,High,Other,Car,Distracted Driving,40.60646005313959,-73.85281452485513,Medium
+2025-07-23,02:14:20,Clear,Good,Night,High,Head-on,Bus,Speeding,40.76654255662904,-73.75495894689027,High
+2025-02-15,00:52:31,Rain,Moderate,Night,Medium,Other,Motorcycle,Mechanical Failure,40.83636448951975,-73.7716780435812,Medium
+2025-05-09,17:11:29,Rain,Moderate,Afternoon,Jam,Rollover,Motorcycle,Running Red Light,40.72600900786453,-73.77282229750644,High
+2025-01-30,17:13:07,Clear,Good,Afternoon,Medium,Other,Car,Running Red Light,40.59953452114048,-73.90393749160611,Low
+2025-04-14,21:36:13,Clear,Moderate,Evening,Medium,Rollover,Motorcycle,Speeding,40.77521534780413,-73.83539176281646,Medium
+2025-06-07,02:50:56,Clear,Good,Night,Medium,Head-on,Motorcycle,Running Red Light,40.874382952584114,-73.71249803091285,Medium
+2025-06-13,20:36:38,Rain,Good,Evening,High,Other,Car,Distracted Driving,40.83277010070083,-73.91710618759525,Medium
+2025-02-13,23:49:46,Rain,Good,Evening,Low,Head-on,Car,Weather,40.60753915982057,-74.09956802724797,High
+2025-05-17,20:00:11,Rain,Poor,Evening,Medium,Other,Truck,Mechanical Failure,40.66023796972974,-74.14329104500264,Medium
+2025-06-12,19:32:01,Clear,Moderate,Evening,Medium,Other,Bus,Weather,40.66156254943879,-74.0216150108923,Low
+2025-03-25,07:45:07,Rain,Good,Morning,Medium,Head-on,Car,Mechanical Failure,40.74356657274616,-74.06724070885599,Medium
+2025-04-04,22:54:14,Clear,Poor,Evening,High,Rollover,Car,Other,40.7432995858285,-73.76279716895014,High
+2025-06-14,09:00:47,Clear,Good,Morning,High,Rear-end,Truck,Distracted Driving,40.5748725969332,-73.98404592204733,Low
+2025-01-20,01:43:44,Rain,Moderate,Night,High,Rear-end,Car,Distracted Driving,40.6688129696907,-73.7445120091052,Medium
+2025-07-22,09:11:28,Rain,Moderate,Morning,Medium,Other,Bus,Distracted Driving,40.608669134894406,-73.72400746247487,Low
+2025-08-18,10:53:05,Rain,Good,Morning,Medium,Side,Car,Speeding,40.78778080823981,-73.9990782762979,Low
+2025-03-05,14:59:51,Rain,Good,Afternoon,Jam,Head-on,Pedestrian,Distracted Driving,40.849156720035744,-73.7493391234453,High
+2025-08-25,04:46:56,Clear,Good,Night,Medium,Rear-end,Motorcycle,Speeding,40.58459983457975,-73.91283687634063,Low
+2025-06-11,01:08:36,Clear,Moderate,Night,Low,Other,Car,Mechanical Failure,40.80735260623375,-74.08172007210491,Low
+2025-07-24,11:45:11,Rain,Good,Morning,Low,Side,Motorcycle,Other,40.65019425964854,-74.1322021717987,Low
+2025-02-02,22:03:00,Clear,Good,Evening,Low,Side,Motorcycle,Distracted Driving,40.63236677757821,-73.70115921193351,Low
+2025-05-01,17:40:45,Clear,Moderate,Afternoon,Low,Other,Car,Other,40.591767012841984,-73.73707195391995,Low
+2025-07-19,21:43:28,Clear,Poor,Evening,Medium,Other,Bicycle,Alcohol,40.818908804371446,-73.93047493726347,Medium
+2025-06-25,12:30:29,Clear,Good,Morning,Medium,Rear-end,Pedestrian,Other,40.84534669613331,-73.88971687260312,Low
+2025-04-04,01:36:19,Clear,Moderate,Night,Medium,Other,Truck,Mechanical Failure,40.60053790719928,-73.85960976535885,Low
+2025-03-25,00:44:37,Rain,Good,Night,Low,Head-on,Motorcycle,Weather,40.67530492010749,-74.0700532843362,High
+2025-06-25,15:26:57,Clear,Good,Afternoon,High,Other,Car,Alcohol,40.77436040707239,-74.01231973609111,Low
+2025-02-08,06:13:30,Clear,Moderate,Night,Medium,Head-on,Car,Alcohol,40.85995611996009,-73.84634516262128,Medium
+2025-03-27,02:15:32,Fog,Good,Night,Jam,Head-on,Car,Mechanical Failure,40.87676804880496,-73.82755761325592,High
+2025-02-08,08:39:04,Snow,Good,Morning,Medium,Rear-end,Car,Other,40.61320345050196,-74.10447640644813,Low
+2025-05-27,09:38:35,Fog,Construction,Morning,Low,Rear-end,Motorcycle,Speeding,40.725047318751336,-73.80581432790274,Medium
+2025-05-02,23:41:09,Rain,Good,Evening,Jam,Side,Car,Speeding,40.64938630676687,-74.05318967155377,Medium
+2025-07-30,18:28:20,Clear,Moderate,Afternoon,Medium,Head-on,Car,Weather,40.59317965431674,-74.01581384975177,Medium
+2025-08-15,07:33:10,Fog,Good,Morning,High,Head-on,Car,Distracted Driving,40.627134928193264,-73.95560496320732,High
+2025-04-27,06:57:33,Clear,Moderate,Night,Low,Head-on,Car,Distracted Driving,40.55823254643323,-73.99900334172217,Medium
+2025-08-09,04:41:36,Rain,Good,Night,Medium,Other,Truck,Distracted Driving,40.9180062602139,-73.92357883093882,Medium
+2025-01-02,03:58:54,Clear,Construction,Night,Medium,Rollover,Car,Distracted Driving,40.717367595609865,-73.81083684831437,High
+2025-01-02,16:05:56,Clear,Good,Afternoon,High,Head-on,Car,Speeding,40.79099577812172,-73.87990722061731,Medium
+2025-01-29,16:53:37,Snow,Good,Afternoon,Low,Rollover,Car,Running Red Light,40.6293072743586,-73.89395224351897,Medium
+2025-07-31,10:40:49,Clear,Moderate,Morning,High,Other,Truck,Distracted Driving,40.67833889213949,-73.82691300196655,Low
+2025-08-23,10:53:27,Snow,Good,Morning,Low,Head-on,Car,Alcohol,40.88871700638759,-74.03905736095538,Medium
+2025-04-06,07:24:39,Clear,Moderate,Morning,Medium,Head-on,Truck,Speeding,40.62289587545756,-73.73853839156658,Medium
+2025-04-24,05:57:13,Clear,Moderate,Night,Low,Side,Car,Speeding,40.62487451731906,-73.82954038198734,Low
+2025-07-05,00:20:49,Rain,Moderate,Night,Low,Rear-end,Motorcycle,Mechanical Failure,40.730890462859584,-73.96495288573288,Medium
+2025-04-04,20:41:38,Rain,Moderate,Evening,High,Head-on,Car,Speeding,40.69973630693571,-74.12798530341125,High
+2025-01-09,16:45:18,Clear,Good,Afternoon,Medium,Other,Car,Weather,40.9026115374276,-73.77095257673285,Low
+2025-03-08,12:29:32,Clear,Good,Morning,Medium,Side,Car,Mechanical Failure,40.85509307202189,-73.9109451225547,Low
+2025-06-11,16:44:56,Rain,Good,Afternoon,Medium,Rear-end,Bicycle,Speeding,40.56551318127686,-74.03893178486977,Low
+2025-07-26,04:43:54,Clear,Good,Night,Medium,Other,Truck,Other,40.58354364265389,-74.02077867705489,Low
+2025-02-02,06:08:25,Rain,Good,Night,Medium,Rear-end,Motorcycle,Distracted Driving,40.85481580937092,-73.96648864410652,Medium
+2025-03-17,20:50:35,Fog,Good,Evening,Medium,Rollover,Car,Speeding,40.90725235962076,-73.78398373115913,High
+2025-06-15,16:34:39,Clear,Poor,Afternoon,Medium,Other,Car,Other,40.7227745704618,-73.85542057915987,Low
+2025-05-12,20:28:03,Rain,Good,Evening,High,Rear-end,Car,Other,40.89049555254136,-74.03269922194958,Medium
+2025-01-06,04:49:55,Fog,Moderate,Night,Low,Side,Motorcycle,Speeding,40.65139768903323,-74.11085566744352,Medium
+2025-02-27,05:39:29,Snow,Good,Night,Low,Other,Motorcycle,Distracted Driving,40.78688110561579,-74.10053376201537,Medium
+2025-03-07,11:53:16,Clear,Poor,Morning,Low,Head-on,Car,Distracted Driving,40.68521803889966,-73.78688908182839,Medium
+2025-06-03,02:29:35,Clear,Moderate,Night,Low,Side,Car,Running Red Light,40.72092077780616,-73.74963037693587,Low
+2025-06-19,05:40:08,Clear,Moderate,Night,High,Rear-end,Pedestrian,Speeding,40.85154977424288,-73.92566019366234,Medium
+2025-08-16,13:23:27,Snow,Moderate,Afternoon,High,Other,Car,Distracted Driving,40.87931772665336,-73.84189775222637,Medium
+2025-04-24,13:06:44,Clear,Good,Afternoon,High,Rear-end,Car,Weather,40.65887265099273,-73.85653607227488,Low
+2025-06-09,12:03:29,Clear,Moderate,Morning,Low,Side,Car,Alcohol,40.901421227483965,-74.09409272151353,Low
+2025-06-13,00:55:49,Rain,Poor,Night,Low,Rollover,Motorcycle,Distracted Driving,40.64458762506285,-73.81445809241946,High
+2025-02-25,18:18:31,Clear,Poor,Afternoon,Low,Rollover,Car,Distracted Driving,40.77217235087521,-73.82595545196844,Medium
+2025-08-04,03:42:01,Rain,Good,Night,High,Other,Car,Distracted Driving,40.64355533989357,-74.07454378556154,Medium
+2025-06-08,19:36:34,Rain,Moderate,Evening,Low,Side,Car,Speeding,40.719175250120976,-73.70059735054193,Medium
+2025-05-10,19:53:58,Snow,Moderate,Evening,Medium,Rollover,Car,Mechanical Failure,40.57134917371168,-74.13275754528141,High
+2025-08-02,21:09:35,Clear,Good,Evening,Low,Other,Car,Speeding,40.785568961160514,-74.00460072841854,Low
+2025-06-17,20:11:48,Clear,Moderate,Evening,Low,Other,Car,Distracted Driving,40.73995580648646,-73.73280164266448,Low
+2025-07-17,14:31:22,Snow,Moderate,Afternoon,Low,Other,Car,Distracted Driving,40.792933584506734,-74.10930632919546,Low
+2025-01-21,05:49:42,Clear,Moderate,Night,Medium,Other,Car,Speeding,40.750842423968926,-73.98223394697,Low
+2025-03-22,19:53:24,Rain,Moderate,Evening,Low,Rear-end,Car,Alcohol,40.64281074809704,-73.71369112018337,Medium
+2025-08-20,11:05:47,Clear,Good,Morning,Jam,Rollover,Bicycle,Weather,40.66704923647232,-73.8538105405358,Medium
+2025-04-15,09:14:33,Rain,Good,Morning,Medium,Rear-end,Car,Weather,40.79763738811668,-73.73421004338533,Low
+2025-05-08,15:04:07,Fog,Poor,Afternoon,Low,Side,Car,Mechanical Failure,40.60946618173675,-73.88713703097531,Medium
+2025-02-27,20:38:31,Clear,Moderate,Evening,High,Head-on,Motorcycle,Speeding,40.9091642001359,-74.07051446634655,High
+2025-08-27,01:31:37,Clear,Good,Night,High,Rollover,Car,Distracted Driving,40.63766627538632,-73.77304678162604,High
+2025-03-11,16:40:56,Clear,Poor,Afternoon,Medium,Rear-end,Bus,Distracted Driving,40.6270752467276,-74.05155915601846,Low
+2025-06-06,02:23:30,Clear,Good,Night,Medium,Rear-end,Motorcycle,Speeding,40.8449701664557,-73.92649993101793,Low
+2025-06-07,21:35:11,Rain,Good,Evening,Medium,Other,Truck,Alcohol,40.79793951441724,-73.95763933451606,Medium
+2025-06-05,18:14:44,Clear,Moderate,Afternoon,Medium,Rear-end,Car,Speeding,40.6326597111154,-73.72841948167198,Low
+2025-02-03,05:40:56,Clear,Moderate,Night,Medium,Side,Car,Speeding,40.70434037283984,-74.05251550953852,Low
+2025-07-04,18:15:17,Clear,Moderate,Afternoon,Medium,Rear-end,Car,Distracted Driving,40.74660610961389,-73.77267625193984,Low
+2025-04-13,13:22:15,Clear,Good,Afternoon,Medium,Other,Car,Distracted Driving,40.67465158856646,-73.9433057920911,Low
+2025-01-12,17:55:29,Clear,Moderate,Afternoon,Medium,Head-on,Car,Speeding,40.65616207008998,-74.09934406860808,Medium
+2025-01-04,16:26:48,Clear,Good,Afternoon,Low,Rear-end,Car,Speeding,40.58290130978809,-73.8524751608295,Low
+2025-01-22,15:42:08,Clear,Poor,Afternoon,Medium,Rollover,Car,Weather,40.81849252154823,-73.9138182404553,Medium
+2025-06-07,04:29:54,Clear,Good,Night,Medium,Rear-end,Car,Speeding,40.56321222259202,-73.71572844511549,Low
+2025-02-11,09:57:06,Clear,Good,Morning,Low,Head-on,Car,Distracted Driving,40.89881574379523,-73.89686136609963,Medium
+2025-07-28,15:44:08,Rain,Poor,Afternoon,Medium,Head-on,Car,Speeding,40.55408715322096,-74.13228056130298,High
+2025-08-03,15:43:03,Clear,Moderate,Afternoon,Medium,Rear-end,Motorcycle,Speeding,40.60914209056008,-73.8677559912004,Low
+2025-07-06,02:27:25,Clear,Moderate,Night,High,Other,Pedestrian,Distracted Driving,40.69907655805381,-73.8790108641361,Medium
+2025-03-19,13:02:24,Snow,Moderate,Afternoon,Low,Rollover,Car,Weather,40.61677637755364,-74.06721270766528,Medium
+2025-04-14,03:12:42,Clear,Good,Night,Low,Rear-end,Car,Distracted Driving,40.636926607471096,-73.91337954218098,Low
+2025-05-02,11:21:40,Clear,Moderate,Morning,Medium,Side,Car,Weather,40.69059072204961,-73.71263339149802,Low
+2025-06-25,09:58:12,Clear,Moderate,Morning,Medium,Head-on,Motorcycle,Weather,40.55938385754947,-73.96874227667846,Medium
+2025-01-13,22:50:43,Fog,Good,Evening,Jam,Head-on,Bus,Weather,40.79038191003979,-73.95656424694214,High
+2025-04-28,18:15:18,Rain,Poor,Afternoon,High,Head-on,Car,Weather,40.77766522067415,-73.86162366801737,High
+2025-06-19,20:57:49,Rain,Good,Evening,Medium,Side,Car,Speeding,40.747291770854005,-73.73617691222572,Medium
+2025-05-10,08:51:38,Fog,Good,Morning,Low,Side,Motorcycle,Distracted Driving,40.66250350887741,-74.05255377595101,Low
+2025-03-26,09:03:33,Clear,Good,Morning,Low,Rear-end,Motorcycle,Weather,40.584992559897074,-74.00829941598823,Low
+2025-03-22,19:17:20,Clear,Good,Evening,Medium,Head-on,Pedestrian,Distracted Driving,40.646002335107546,-74.12171601784266,Medium
+2025-02-22,03:49:14,Clear,Good,Night,High,Rear-end,Bus,Speeding,40.78222746653287,-74.0747839062531,Medium
+2025-02-11,22:30:25,Rain,Good,Evening,Low,Rear-end,Car,Weather,40.56610317279062,-73.87736985759686,Medium
+2025-04-27,13:48:51,Rain,Good,Afternoon,Jam,Rollover,Bicycle,Alcohol,40.65616222851699,-74.02642354933297,High
+2025-05-08,22:18:24,Rain,Good,Evening,Medium,Other,Motorcycle,Running Red Light,40.82212923015663,-74.11011309356066,Medium
+2025-05-31,17:06:13,Clear,Moderate,Afternoon,Low,Head-on,Bus,Alcohol,40.555343578567,-74.05923609973168,Medium
+2025-05-03,00:41:45,Clear,Moderate,Night,Low,Head-on,Truck,Weather,40.57308885850244,-74.14902179729829,Medium
+2025-02-23,12:03:00,Clear,Poor,Morning,Medium,Rollover,Car,Speeding,40.79301119405684,-73.81989461480708,Medium
+2025-07-03,17:02:08,Fog,Good,Afternoon,Medium,Head-on,Car,Speeding,40.88639449053368,-73.93136762108756,Medium
+2025-02-14,10:09:47,Rain,Good,Morning,High,Rear-end,Car,Alcohol,40.78475815349003,-73.8564773505227,Medium
+2025-03-17,08:27:05,Rain,Good,Morning,Jam,Side,Truck,Mechanical Failure,40.87144024969387,-73.79719142580296,Medium
+2025-06-22,19:31:55,Clear,Good,Evening,Medium,Rear-end,Car,Running Red Light,40.91469414359655,-73.89745827550601,Low
+2025-03-06,01:02:06,Clear,Moderate,Night,Medium,Rollover,Car,Speeding,40.85016725437677,-73.72193112377244,Medium
+2025-07-15,03:59:42,Clear,Moderate,Night,Medium,Rollover,Truck,Alcohol,40.76306304142432,-73.94256544569559,Medium
+2025-01-23,13:38:22,Clear,Good,Afternoon,Medium,Rear-end,Car,Mechanical Failure,40.5717827047832,-73.98262012070273,Low
+2025-08-02,07:02:44,Snow,Poor,Morning,Medium,Rollover,Car,Alcohol,40.60134971521949,-73.96517000612991,High
+2025-02-04,05:57:14,Rain,Poor,Night,Medium,Other,Car,Distracted Driving,40.67590599282641,-74.04331336778094,Medium
+2025-04-06,16:49:01,Rain,Moderate,Afternoon,Medium,Head-on,Car,Running Red Light,40.62917124418645,-73.9373565256824,Medium
+2025-08-22,13:38:32,Fog,Moderate,Afternoon,Low,Side,Car,Other,40.73590346325265,-74.04044066774699,Low
+2025-01-15,23:42:09,Clear,Moderate,Evening,Medium,Other,Car,Distracted Driving,40.72023635544332,-73.84546334372172,Low
+2025-05-14,04:11:45,Clear,Moderate,Night,Low,Rear-end,Motorcycle,Weather,40.73173778415895,-74.08032590681296,Low
+2025-07-24,04:12:57,Rain,Moderate,Night,Medium,Rollover,Car,Speeding,40.73797010675492,-74.02106992134514,High
+2025-01-20,23:50:08,Clear,Moderate,Evening,Low,Other,Car,Speeding,40.75761158271199,-73.77650027288233,Low
+2025-02-07,18:55:08,Clear,Good,Afternoon,Medium,Side,Bicycle,Running Red Light,40.63809225735649,-73.92100726683968,Low
+2025-03-18,20:53:40,Clear,Good,Evening,High,Head-on,Truck,Weather,40.89380035051585,-73.79543673826335,High
+2025-02-17,13:32:25,Rain,Poor,Afternoon,Medium,Rollover,Motorcycle,Alcohol,40.71167943044456,-74.117649561186,High
+2025-06-09,07:15:00,Rain,Moderate,Morning,Low,Rear-end,Motorcycle,Distracted Driving,40.682298635118855,-73.8590105919932,Low
+2025-01-27,06:17:50,Clear,Good,Night,Low,Other,Truck,Running Red Light,40.73633996650283,-73.9144438622608,Low
+2025-07-18,02:01:39,Clear,Poor,Night,Medium,Rear-end,Car,Alcohol,40.78740846392376,-73.94222019627834,Medium
+2025-03-10,17:31:11,Clear,Good,Afternoon,Low,Rollover,Car,Running Red Light,40.65983769123742,-73.76213184779789,Medium
+2025-02-18,02:47:43,Rain,Moderate,Night,Low,Other,Motorcycle,Other,40.77829636656547,-73.7221553467247,Medium
+2025-08-25,17:02:11,Clear,Construction,Afternoon,Low,Rear-end,Motorcycle,Distracted Driving,40.5769031493075,-74.10750736413787,Low
+2025-05-03,23:34:03,Clear,Construction,Evening,Medium,Rollover,Motorcycle,Distracted Driving,40.84298327636122,-73.74502300659287,High
+2025-01-05,21:55:28,Clear,Moderate,Evening,Low,Head-on,Car,Mechanical Failure,40.58694739505464,-73.79340273467018,Medium
+2025-01-12,10:48:56,Clear,Good,Morning,Medium,Rollover,Bus,Other,40.73089405030198,-74.01710216593692,Medium
+2025-07-03,20:52:52,Clear,Moderate,Evening,Low,Rollover,Car,Weather,40.866344825487865,-73.99278565880311,Medium
+2025-04-02,07:02:19,Clear,Moderate,Morning,High,Rear-end,Car,Other,40.63205693861893,-73.73810726331232,Low
+2025-01-12,00:45:22,Snow,Good,Night,High,Rear-end,Car,Speeding,40.73995880857048,-73.84250652250377,Medium
+2025-03-22,20:32:25,Clear,Good,Evening,High,Other,Motorcycle,Distracted Driving,40.56235451120672,-74.01495855086279,Medium
+2025-08-13,12:06:36,Clear,Construction,Morning,Medium,Head-on,Car,Mechanical Failure,40.69845748796636,-73.8018113879552,Medium
+2025-04-06,18:22:05,Clear,Poor,Afternoon,Low,Other,Motorcycle,Speeding,40.60208703719928,-73.96093253921815,Low
+2025-04-08,09:36:38,Clear,Good,Morning,Medium,Side,Truck,Speeding,40.80803190391243,-73.83413694794064,Low
+2025-02-19,23:10:48,Clear,Moderate,Evening,Medium,Rear-end,Motorcycle,Distracted Driving,40.55210464270586,-73.94495789555496,Low
+2025-05-03,13:06:39,Clear,Moderate,Afternoon,Low,Rear-end,Car,Distracted Driving,40.807290057582215,-73.91595381081684,Low
+2025-06-26,02:14:15,Clear,Good,Night,Low,Rear-end,Bicycle,Distracted Driving,40.875078457019065,-73.76520768346123,Low
+2025-08-25,18:01:42,Clear,Moderate,Afternoon,High,Other,Bicycle,Speeding,40.863253859718434,-73.98165279899507,Low
+2025-04-15,19:50:14,Clear,Good,Evening,High,Rollover,Truck,Speeding,40.778643542786,-73.97074146283853,High
+2025-04-30,01:21:31,Clear,Good,Night,High,Rollover,Motorcycle,Running Red Light,40.63861382802537,-73.94755520746003,High
+2025-06-11,11:37:55,Rain,Good,Morning,High,Other,Pedestrian,Distracted Driving,40.71921839960117,-74.10703971464268,Medium
+2025-03-16,11:18:43,Clear,Good,Morning,Low,Other,Motorcycle,Speeding,40.5863512077942,-73.73455761369821,Low
+2025-02-06,04:09:14,Clear,Good,Night,Medium,Side,Car,Running Red Light,40.66396938016671,-73.95871385728617,Low
+2025-07-29,20:10:54,Rain,Moderate,Evening,Jam,Rollover,Bicycle,Speeding,40.603647394393306,-74.06346829947773,High
+2025-07-20,04:33:01,Snow,Poor,Night,Low,Rollover,Motorcycle,Weather,40.645300542033766,-73.7916753450687,High
+2025-07-14,10:14:29,Rain,Good,Morning,Jam,Rollover,Car,Distracted Driving,40.81019652676156,-73.9584416423967,High
+2025-04-08,17:54:03,Clear,Good,Afternoon,Low,Rollover,Truck,Distracted Driving,40.82626611392372,-73.88026360678856,Medium
+2025-08-04,15:46:23,Clear,Construction,Afternoon,Medium,Side,Car,Weather,40.81001623256096,-73.86366013300734,Low
+2025-07-19,18:37:51,Clear,Good,Afternoon,Medium,Rear-end,Car,Weather,40.860023018818566,-74.02424518010595,Low
+2025-01-13,06:20:22,Clear,Moderate,Night,Jam,Other,Motorcycle,Speeding,40.6094049587776,-73.9280548521926,Medium
+2025-01-24,17:27:33,Clear,Moderate,Afternoon,High,Rollover,Car,Distracted Driving,40.89385010146765,-73.7125337676962,Medium
+2025-03-22,05:49:33,Rain,Good,Night,Low,Rear-end,Motorcycle,Mechanical Failure,40.55963208043473,-73.97585233558614,Medium
+2025-04-24,14:23:16,Clear,Moderate,Afternoon,Medium,Rollover,Car,Weather,40.88321383430837,-73.95958541539409,Medium
+2025-06-11,15:45:11,Rain,Poor,Afternoon,Medium,Head-on,Car,Weather,40.72344813316398,-73.99535094740422,High
+2025-05-01,06:11:24,Fog,Good,Night,Medium,Side,Car,Weather,40.76408069378143,-73.76807349327672,Medium
+2025-08-02,22:45:39,Clear,Good,Evening,Low,Side,Pedestrian,Running Red Light,40.64369262377996,-74.08474452467168,Low
+2025-07-08,11:56:11,Clear,Good,Morning,Low,Head-on,Truck,Speeding,40.56886140248341,-74.14167168131732,Medium
+2025-03-18,22:18:25,Snow,Good,Evening,Low,Rear-end,Car,Speeding,40.71765952402646,-73.9319879040302,Medium
+2025-03-08,09:46:20,Clear,Good,Morning,High,Other,Car,Mechanical Failure,40.72576395224504,-73.97465862141432,Low
+2025-06-28,22:27:20,Clear,Good,Evening,Low,Rear-end,Motorcycle,Distracted Driving,40.56068421962832,-73.74617149758647,Low
+2025-06-05,15:19:57,Clear,Good,Afternoon,Medium,Side,Car,Mechanical Failure,40.760637716979325,-74.12154698229844,Low
+2025-08-06,22:59:52,Fog,Good,Evening,Medium,Head-on,Pedestrian,Distracted Driving,40.86630153916981,-73.84695384432537,High
+2025-02-08,15:20:42,Clear,Good,Afternoon,Medium,Rear-end,Car,Distracted Driving,40.784001165687904,-74.04905423657772,Low
+2025-03-21,15:28:09,Clear,Moderate,Afternoon,Low,Other,Motorcycle,Distracted Driving,40.82117829069272,-73.94836876862959,Low
+2025-05-06,02:21:10,Rain,Good,Night,Medium,Head-on,Car,Speeding,40.66173268397296,-73.90222383151493,High
+2025-08-23,07:18:25,Rain,Moderate,Morning,Medium,Rollover,Motorcycle,Speeding,40.59721539762286,-74.00339012646329,Medium
+2025-04-05,16:44:43,Clear,Good,Afternoon,Medium,Rear-end,Motorcycle,Weather,40.8421158051627,-73.96080384742382,Low
+2025-07-17,13:36:31,Rain,Good,Afternoon,Jam,Head-on,Car,Weather,40.67934632045913,-73.9145964649222,High
+2025-07-20,06:50:25,Clear,Moderate,Night,Low,Head-on,Car,Distracted Driving,40.68263903306862,-73.86418832834788,Medium
+2025-08-28,15:16:08,Snow,Moderate,Afternoon,Medium,Side,Motorcycle,Speeding,40.78723020116272,-74.04647937842643,Low
+2025-03-03,17:21:29,Clear,Moderate,Afternoon,Jam,Head-on,Car,Mechanical Failure,40.78055095440758,-73.89458638332034,Medium
+2025-06-30,02:07:55,Rain,Construction,Night,Low,Rear-end,Car,Alcohol,40.60380397553426,-73.97895097393892,Medium
+2025-05-19,21:42:32,Clear,Good,Evening,Jam,Rear-end,Bus,Speeding,40.868153657526,-73.96150651744286,Medium
+2025-05-07,08:13:47,Rain,Good,Morning,Medium,Side,Car,Mechanical Failure,40.83861113980954,-73.9614176188463,Low
+2025-06-12,02:14:41,Clear,Moderate,Night,High,Rollover,Motorcycle,Weather,40.5773604989594,-74.04563130892693,High
+2025-07-20,02:55:29,Clear,Moderate,Night,Low,Other,Car,Running Red Light,40.82881667635348,-73.75715623862342,Low
+2025-06-10,22:19:20,Snow,Poor,Evening,Medium,Other,Pedestrian,Distracted Driving,40.58408536501405,-73.71367084646386,Medium
+2025-02-01,12:04:24,Clear,Construction,Morning,Medium,Rear-end,Motorcycle,Distracted Driving,40.69885518883444,-74.06831481494572,Low
+2025-08-23,00:20:44,Snow,Good,Night,Medium,Head-on,Truck,Speeding,40.69522122645667,-73.88275344325349,High
+2025-02-21,18:30:14,Rain,Good,Afternoon,Low,Side,Car,Distracted Driving,40.81043320724513,-73.81330648022247,Low
+2025-08-03,03:31:05,Clear,Good,Night,High,Rollover,Car,Speeding,40.84732241159203,-74.09116609725389,High
+2025-01-28,13:45:57,Clear,Good,Afternoon,Low,Head-on,Pedestrian,Speeding,40.803903251178816,-73.8108578229553,Medium
+2025-02-09,04:41:41,Clear,Moderate,Night,Low,Rear-end,Car,Distracted Driving,40.56839576822055,-73.90722565339608,Low
+2025-07-05,19:01:33,Snow,Moderate,Evening,High,Side,Car,Distracted Driving,40.82966010638937,-73.842652814194,Medium
+2025-05-04,04:29:04,Clear,Moderate,Night,High,Rear-end,Car,Speeding,40.91691403192675,-73.79099991673779,Medium
+2025-08-14,21:26:12,Clear,Good,Evening,Medium,Rollover,Bus,Weather,40.598623770202266,-74.10435042633121,Medium
+2025-06-27,12:01:35,Snow,Good,Morning,Medium,Side,Car,Mechanical Failure,40.804557046895205,-73.89671299663186,Low
+2025-01-20,17:40:15,Fog,Moderate,Afternoon,Low,Rollover,Bicycle,Speeding,40.74658486164904,-74.05454124086015,Medium
+2025-01-08,11:48:16,Clear,Good,Morning,High,Head-on,Bus,Distracted Driving,40.85163208605849,-74.00325513473464,Medium
+2025-02-03,13:43:23,Clear,Good,Afternoon,Low,Rear-end,Car,Speeding,40.71741391865331,-73.95276325381906,Low
+2025-05-16,18:31:51,Rain,Moderate,Afternoon,High,Rollover,Car,Distracted Driving,40.77287580455887,-74.10173661942945,High
+2025-03-30,02:17:12,Clear,Good,Night,Medium,Rear-end,Motorcycle,Distracted Driving,40.73469650990813,-73.74629247398882,Low
+2025-08-16,18:20:30,Clear,Poor,Afternoon,Medium,Side,Bus,Alcohol,40.87698230377034,-74.04462920116526,Low
+2025-05-12,10:23:25,Rain,Good,Morning,Medium,Rear-end,Car,Speeding,40.746732328734986,-74.01752883850493,Low
+2025-03-13,18:50:58,Clear,Good,Afternoon,Low,Head-on,Motorcycle,Alcohol,40.71497461650849,-73.90955851109658,Medium
+2025-06-29,13:04:19,Snow,Good,Afternoon,Medium,Rear-end,Car,Distracted Driving,40.56627964130657,-74.06958107028342,Low
+2025-04-29,01:35:44,Rain,Good,Night,Medium,Head-on,Car,Speeding,40.81258245953121,-73.82571784706329,High
+2025-07-12,04:29:13,Clear,Moderate,Night,Low,Side,Car,Weather,40.81139968495268,-74.02255296783166,Low
+2025-03-02,17:53:20,Clear,Moderate,Afternoon,Low,Other,Car,Weather,40.70039822911655,-74.13848977641958,Low
+2025-02-01,21:17:43,Rain,Moderate,Evening,Medium,Head-on,Car,Weather,40.7925006355894,-73.72885451154056,High
+2025-06-04,12:23:18,Clear,Moderate,Morning,Low,Rear-end,Truck,Speeding,40.71379081358133,-74.0303916823879,Low
+2025-04-07,05:08:54,Clear,Good,Night,High,Rear-end,Truck,Speeding,40.693020632563936,-73.71410417999505,Medium
+2025-01-01,01:08:58,Rain,Good,Night,High,Other,Pedestrian,Weather,40.80788635706207,-74.09451449507907,Medium
+2025-03-14,11:28:25,Snow,Good,Morning,High,Rollover,Truck,Speeding,40.790899221027225,-73.95265097833027,High
+2025-02-28,19:37:00,Snow,Moderate,Evening,Medium,Rollover,Car,Speeding,40.70598320782713,-73.86884179941853,High
+2025-03-25,03:53:17,Clear,Moderate,Night,High,Side,Motorcycle,Alcohol,40.55903543797825,-74.10627811544427,Medium
+2025-08-27,01:12:24,Clear,Moderate,Night,High,Rear-end,Car,Speeding,40.78296151575774,-74.07451071986051,Medium
+2025-04-15,08:04:13,Clear,Moderate,Morning,Low,Side,Truck,Speeding,40.775654537104,-73.7447351444586,Low
+2025-05-08,03:52:21,Clear,Good,Night,Low,Head-on,Truck,Speeding,40.657708815045055,-74.00487579168727,Medium
+2025-08-22,01:40:27,Clear,Poor,Night,Jam,Head-on,Pedestrian,Mechanical Failure,40.580037230994925,-73.7665060466101,High
+2025-05-22,19:44:24,Snow,Good,Evening,High,Rear-end,Motorcycle,Speeding,40.797597720004674,-73.82987845071621,Medium
+2025-06-14,02:26:28,Rain,Moderate,Night,Medium,Head-on,Motorcycle,Speeding,40.69186766932614,-73.85276289950603,High
+2025-08-30,03:08:54,Snow,Good,Night,Medium,Other,Car,Mechanical Failure,40.60259415706891,-73.82155100096477,Medium
+2025-08-28,12:56:05,Snow,Good,Morning,High,Rollover,Motorcycle,Running Red Light,40.56052324865427,-74.13361472218283,High
+2025-01-28,09:11:25,Rain,Poor,Morning,Medium,Other,Car,Speeding,40.55998060934667,-73.98723279250521,Medium
+2025-01-12,04:42:24,Rain,Good,Night,Low,Rollover,Car,Speeding,40.63891519991412,-73.930404333241,High
+2025-07-15,06:44:04,Rain,Moderate,Night,Low,Side,Pedestrian,Distracted Driving,40.83352661090824,-74.14654633569852,Medium
+2025-07-27,23:42:25,Clear,Poor,Evening,High,Rear-end,Car,Speeding,40.604464084419256,-73.72778959093814,Medium
+2025-07-21,11:05:01,Clear,Good,Morning,High,Other,Motorcycle,Alcohol,40.897508622517286,-73.95044042790946,Low
+2025-04-07,12:02:15,Clear,Moderate,Morning,High,Rear-end,Car,Weather,40.81358342515818,-73.84236888950399,Low
+2025-01-13,22:04:31,Fog,Moderate,Evening,Low,Other,Bus,Alcohol,40.68849623856496,-74.14532036504532,Medium
+2025-04-11,12:56:34,Clear,Good,Morning,Low,Head-on,Motorcycle,Distracted Driving,40.61833669739466,-74.12426346347839,Medium
+2025-02-20,02:01:48,Rain,Good,Night,High,Other,Pedestrian,Weather,40.75622747635567,-73.70644126675685,Medium
+2025-01-25,04:10:18,Fog,Poor,Night,High,Other,Bicycle,Alcohol,40.71742494480339,-74.07237249926216,High
+2025-06-24,23:40:05,Clear,Good,Evening,High,Rear-end,Truck,Weather,40.6066959584868,-74.13789313076767,Medium
+2025-06-30,19:33:04,Clear,Good,Evening,Low,Head-on,Motorcycle,Other,40.811072968004616,-73.79835431138078,Medium
+2025-04-21,12:42:45,Clear,Moderate,Morning,Low,Other,Car,Other,40.599948360652334,-73.97193403482468,Low
+2025-04-26,02:00:31,Snow,Poor,Night,Medium,Other,Truck,Weather,40.78333348744704,-74.00954128096767,Medium
+2025-05-29,01:01:42,Clear,Moderate,Night,High,Head-on,Car,Mechanical Failure,40.70885681280088,-73.94086529706524,High
+2025-01-10,05:39:28,Clear,Good,Night,Medium,Other,Car,Speeding,40.61576237720997,-74.02862671815684,Low
+2025-04-14,11:37:27,Fog,Poor,Morning,High,Rear-end,Motorcycle,Speeding,40.77018568181678,-73.88366427183941,Medium
+2025-07-28,10:12:42,Rain,Good,Morning,Low,Head-on,Motorcycle,Mechanical Failure,40.72780696109128,-74.08474816564622,Medium
+2025-08-08,04:38:24,Clear,Good,Night,High,Other,Car,Running Red Light,40.71942366062691,-73.97728723560523,Medium
+2025-04-25,06:44:23,Clear,Good,Night,Low,Side,Truck,Mechanical Failure,40.683104121715935,-73.83069795276134,Low
+2025-03-13,18:27:33,Snow,Good,Afternoon,High,Other,Car,Running Red Light,40.65662355362255,-74.08976804468887,Medium
+2025-06-12,23:50:10,Clear,Poor,Evening,High,Rollover,Motorcycle,Weather,40.70656561672202,-74.01646347510207,High
+2025-02-12,14:34:22,Clear,Good,Afternoon,Medium,Rollover,Car,Distracted Driving,40.66404733884408,-74.11863689919389,Medium
+2025-05-31,17:17:50,Clear,Good,Afternoon,Jam,Other,Car,Weather,40.766465557813554,-73.889593997624,Low
+2025-06-02,05:06:54,Clear,Moderate,Night,Low,Side,Car,Speeding,40.5612490733991,-73.71210415281601,Low
+2025-03-07,17:38:07,Rain,Poor,Afternoon,Medium,Head-on,Bus,Alcohol,40.89529757575875,-73.7899779874272,High
+2025-08-05,20:49:31,Clear,Moderate,Evening,Medium,Side,Car,Alcohol,40.67416689776962,-73.95085934984174,Low
+2025-07-19,07:07:57,Snow,Moderate,Morning,Low,Head-on,Car,Distracted Driving,40.638202706096784,-73.72067760803245,Medium
+2025-05-13,08:03:07,Clear,Good,Morning,High,Rollover,Car,Other,40.84168113637983,-73.83601340014361,Medium
+2025-05-29,06:43:36,Clear,Good,Night,Jam,Side,Car,Speeding,40.62179108084865,-73.7193505970871,Medium
+2025-05-17,01:47:58,Clear,Moderate,Night,Medium,Other,Car,Weather,40.870827647847015,-73.8066909870067,Low
+2025-05-31,02:26:45,Rain,Good,Night,Medium,Side,Motorcycle,Alcohol,40.80917945371843,-74.01518463089003,Medium
+2025-06-30,01:00:28,Clear,Moderate,Night,Medium,Rollover,Truck,Distracted Driving,40.57005429927155,-73.93531371621133,Medium
+2025-07-12,23:35:42,Snow,Construction,Evening,High,Side,Car,Distracted Driving,40.90464805966328,-74.09725073531244,High
+2025-01-29,23:29:31,Clear,Good,Evening,Medium,Other,Pedestrian,Weather,40.74983456580616,-74.0110509006371,Low
+2025-01-17,16:56:41,Clear,Construction,Afternoon,Medium,Head-on,Motorcycle,Weather,40.86465745793542,-73.94649909329254,Medium
+2025-05-05,14:13:47,Clear,Moderate,Afternoon,Low,Rear-end,Bicycle,Speeding,40.84360497211956,-73.78188870102345,Low
+2025-03-07,20:03:58,Fog,Poor,Evening,High,Side,Motorcycle,Other,40.756983461243856,-73.72473391921237,High
+2025-03-21,06:52:02,Clear,Moderate,Night,Low,Other,Motorcycle,Other,40.72572002526813,-73.7182278814274,Low
+2025-01-29,09:35:52,Rain,Good,Morning,High,Head-on,Car,Speeding,40.66207931520847,-73.87065897119747,High
+2025-04-05,01:42:27,Clear,Good,Night,Medium,Rollover,Car,Alcohol,40.65071368153233,-73.85207290531234,Medium
+2025-06-10,14:02:19,Rain,Moderate,Afternoon,High,Side,Car,Other,40.58566469682294,-74.11305737303415,Medium
+2025-08-02,00:09:04,Clear,Good,Night,Low,Other,Car,Speeding,40.806108926700645,-74.020903145993,Low
+2025-02-09,22:42:36,Clear,Moderate,Evening,High,Rear-end,Motorcycle,Other,40.82380204928535,-73.92440973505624,Medium
+2025-06-24,05:36:10,Rain,Good,Night,High,Rollover,Pedestrian,Mechanical Failure,40.60163520368852,-73.87082812260547,High
+2025-07-07,12:55:05,Rain,Good,Morning,Medium,Side,Car,Speeding,40.90971942085013,-73.95165005635413,Low
+2025-04-13,10:17:31,Clear,Moderate,Morning,High,Head-on,Motorcycle,Speeding,40.83477586074451,-74.03975890282977,Medium
+2025-04-15,06:18:24,Clear,Construction,Night,High,Rollover,Car,Speeding,40.62869027891311,-73.86169815429396,High
+2025-05-12,07:26:14,Clear,Good,Morning,Medium,Head-on,Car,Mechanical Failure,40.77266125083063,-74.0977082616512,Medium
+2025-02-01,18:26:44,Clear,Moderate,Afternoon,High,Other,Truck,Distracted Driving,40.68662946449355,-73.85034643242099,Low
+2025-02-28,02:59:43,Snow,Moderate,Night,Medium,Other,Motorcycle,Mechanical Failure,40.59022247792605,-74.1462889286271,Medium
+2025-08-04,15:50:13,Clear,Poor,Afternoon,Jam,Other,Truck,Running Red Light,40.67162255177335,-74.1213479001204,Medium
+2025-05-21,07:29:08,Rain,Poor,Morning,High,Head-on,Car,Speeding,40.66060008893511,-74.10064983246046,High
+2025-04-23,05:19:39,Rain,Moderate,Night,Low,Other,Motorcycle,Weather,40.86151729333772,-73.82879429727878,Medium
+2025-02-18,12:44:20,Rain,Moderate,Morning,Medium,Side,Car,Speeding,40.90098576282265,-74.11047455824445,Low
+2025-08-03,16:51:11,Snow,Good,Afternoon,High,Other,Car,Distracted Driving,40.62298352776036,-73.81207204286613,Medium
+2025-02-27,22:30:58,Rain,Poor,Evening,Medium,Head-on,Car,Speeding,40.62792811924236,-73.97980135239526,High
+2025-08-28,06:47:26,Clear,Good,Night,Medium,Rollover,Car,Speeding,40.73647331250395,-73.98137523041345,Medium
+2025-02-25,16:20:33,Rain,Good,Afternoon,Medium,Side,Truck,Speeding,40.79147296534784,-74.14348009122833,Low
+2025-02-12,17:55:05,Fog,Moderate,Afternoon,High,Rollover,Motorcycle,Weather,40.565512751119854,-74.1110208969457,High
+2025-04-09,08:25:52,Snow,Good,Morning,Medium,Other,Car,Running Red Light,40.711769538531726,-74.01698657146694,Low
+2025-08-26,16:13:21,Clear,Good,Afternoon,Medium,Rear-end,Bicycle,Weather,40.875883054295,-73.9424214906846,Low
+2025-04-05,21:06:30,Fog,Good,Evening,Medium,Side,Bus,Distracted Driving,40.91425814876118,-73.93864226598458,Medium
+2025-08-14,08:20:10,Rain,Poor,Morning,Medium,Head-on,Truck,Distracted Driving,40.6753370543866,-73.90923321965455,High
+2025-05-24,20:41:07,Clear,Good,Evening,Medium,Rear-end,Car,Distracted Driving,40.75456072322864,-73.72570004177462,Low
+2025-07-12,06:48:31,Clear,Good,Night,Medium,Rear-end,Truck,Distracted Driving,40.88908715557261,-73.97373809150395,Low
+2025-01-13,17:26:17,Clear,Moderate,Afternoon,Low,Rollover,Car,Speeding,40.74155516653193,-74.14146073240623,Medium
+2025-08-29,17:02:16,Clear,Poor,Afternoon,Medium,Head-on,Truck,Speeding,40.69512148458275,-73.70827876622847,Medium
+2025-01-02,08:47:13,Rain,Good,Morning,High,Other,Truck,Weather,40.83655795462812,-73.89594658647015,Medium
+2025-03-17,04:01:43,Clear,Moderate,Night,Low,Other,Car,Running Red Light,40.76911406660315,-73.98982802299017,Low
+2025-04-16,05:17:24,Clear,Moderate,Night,Low,Head-on,Car,Distracted Driving,40.66973679806804,-73.84510640778991,Medium
+2025-08-26,03:08:15,Clear,Good,Night,High,Head-on,Pedestrian,Distracted Driving,40.55727515829108,-73.9940118317071,High
+2025-01-14,06:38:36,Clear,Good,Night,Medium,Rear-end,Car,Mechanical Failure,40.88332322923876,-74.06573733723243,Low
+2025-02-08,09:59:04,Clear,Poor,Morning,Medium,Other,Truck,Mechanical Failure,40.90254514526637,-74.04138761531883,Low
+2025-02-05,15:39:49,Rain,Good,Afternoon,Medium,Side,Motorcycle,Distracted Driving,40.56556436346961,-73.86618508699505,Low
+2025-02-27,14:04:27,Clear,Poor,Afternoon,Medium,Rollover,Motorcycle,Distracted Driving,40.65458117284717,-73.8710117795235,Medium
+2025-04-03,06:32:48,Rain,Good,Night,Medium,Head-on,Truck,Speeding,40.70198247275958,-73.98708896291402,High
+2025-02-21,14:57:56,Clear,Good,Afternoon,Medium,Rear-end,Motorcycle,Weather,40.67598207201556,-74.01554515759864,Low
+2025-03-14,21:51:32,Rain,Moderate,Evening,Medium,Head-on,Motorcycle,Running Red Light,40.81332188477472,-73.77428571053693,High
+2025-05-01,20:02:19,Clear,Good,Evening,Low,Head-on,Motorcycle,Weather,40.91924398473585,-73.95803407466633,Medium
+2025-02-21,08:41:17,Snow,Poor,Morning,High,Head-on,Bus,Running Red Light,40.740619174782864,-73.87456059393944,High
+2025-08-12,19:14:48,Clear,Moderate,Evening,Low,Side,Car,Running Red Light,40.7508564798816,-73.89556740870152,Low
+2025-04-19,14:47:31,Clear,Good,Afternoon,Low,Side,Car,Distracted Driving,40.59745183608867,-73.8413830550952,Low
+2025-02-08,03:54:51,Snow,Moderate,Night,Medium,Side,Car,Running Red Light,40.62941959304497,-73.90127065823471,Medium
+2025-08-07,19:20:15,Rain,Good,Evening,Medium,Rollover,Motorcycle,Mechanical Failure,40.62649206308738,-73.83188058658895,High
+2025-02-28,12:28:13,Clear,Moderate,Morning,Low,Other,Truck,Distracted Driving,40.61656825274596,-74.11648513256495,Low
+2025-06-05,08:44:02,Clear,Good,Morning,Medium,Other,Car,Speeding,40.79874125198916,-74.02784237724538,Low
+2025-01-05,11:47:56,Rain,Good,Morning,Medium,Rear-end,Car,Mechanical Failure,40.55266139372291,-74.1163180172815,Low
+2025-02-15,15:14:23,Snow,Good,Afternoon,High,Rollover,Pedestrian,Speeding,40.6119687418112,-74.08321592581117,High
+2025-02-08,16:57:30,Clear,Good,Afternoon,High,Rear-end,Car,Weather,40.78360635576723,-73.83234508500216,Low
+2025-02-20,07:09:20,Clear,Poor,Morning,Low,Rollover,Motorcycle,Running Red Light,40.75159581639933,-74.09338213943833,Medium
+2025-01-21,06:36:37,Clear,Good,Night,Medium,Other,Motorcycle,Alcohol,40.7376677384907,-73.97902903595006,Low
+2025-02-26,17:40:59,Clear,Moderate,Afternoon,Medium,Side,Motorcycle,Alcohol,40.55873004412938,-74.06496549137078,Low
+2025-03-31,13:29:30,Rain,Moderate,Afternoon,Medium,Other,Car,Distracted Driving,40.76475170857585,-73.81141656071337,Low
+2025-04-22,21:29:48,Clear,Good,Evening,Medium,Head-on,Truck,Speeding,40.59377058931506,-73.7729373472152,Medium
+2025-05-28,15:35:35,Snow,Moderate,Afternoon,High,Other,Car,Mechanical Failure,40.84265719758142,-74.03912669244833,Medium
+2025-01-03,17:51:08,Clear,Good,Afternoon,High,Other,Car,Distracted Driving,40.62150961395417,-73.964411852953,Low
+2025-08-13,01:47:10,Clear,Good,Night,Low,Rear-end,Motorcycle,Speeding,40.68220450368098,-73.96557884999689,Low
+2025-04-27,19:19:45,Clear,Moderate,Evening,Low,Other,Car,Other,40.60686665281986,-73.91442572707017,Low
+2025-07-17,13:18:00,Clear,Good,Afternoon,Medium,Other,Bus,Speeding,40.750871143101946,-73.70780532675404,Low
+2025-08-12,23:45:24,Rain,Moderate,Evening,Medium,Rear-end,Car,Distracted Driving,40.58586352666314,-73.9487715709245,Medium
+2025-01-09,14:52:28,Fog,Good,Afternoon,Low,Other,Bicycle,Mechanical Failure,40.78843866511764,-73.98916391630453,Low
+2025-06-21,10:03:44,Fog,Moderate,Morning,High,Rollover,Motorcycle,Weather,40.81708181740944,-73.92435318790496,High
+2025-07-15,13:16:37,Clear,Moderate,Afternoon,Low,Rollover,Car,Mechanical Failure,40.71071006234301,-73.92599903961303,Medium
+2025-08-09,10:43:45,Rain,Good,Morning,Low,Head-on,Car,Alcohol,40.79330529811723,-73.93573384598383,Medium
+2025-02-03,04:19:17,Clear,Moderate,Night,High,Rear-end,Car,Speeding,40.6432610635613,-73.94366815735958,Medium
+2025-01-19,01:14:17,Clear,Good,Night,Low,Rollover,Car,Distracted Driving,40.89685286470706,-73.84475643380662,Medium
+2025-08-08,12:43:58,Clear,Good,Morning,Medium,Other,Car,Running Red Light,40.65814906336887,-73.96118040852052,Low
+2025-08-27,04:43:22,Clear,Good,Night,High,Head-on,Car,Other,40.6053173346533,-73.89854637788811,High
+2025-03-16,02:53:23,Snow,Poor,Night,High,Head-on,Truck,Weather,40.71033994656434,-73.80211813434424,High
+2025-06-16,15:07:16,Rain,Good,Afternoon,High,Rollover,Car,Other,40.61299430660719,-73.75266464495833,High
+2025-01-19,23:14:06,Clear,Good,Evening,High,Other,Bus,Mechanical Failure,40.67360902341757,-74.12030179864917,Medium
+2025-06-11,09:12:34,Clear,Good,Morning,Jam,Rollover,Car,Speeding,40.63293698163677,-73.71255152244466,Medium
+2025-04-13,03:07:11,Clear,Moderate,Night,High,Rear-end,Truck,Weather,40.56469978674493,-73.90044767880676,Medium
+2025-05-11,03:51:09,Clear,Good,Night,Medium,Rear-end,Bicycle,Other,40.66238373437304,-74.12840915245476,Low
+2025-02-21,22:43:18,Clear,Good,Evening,High,Side,Car,Other,40.77222680145689,-74.00392237614628,Medium
+2025-03-22,00:24:22,Rain,Good,Night,Medium,Side,Car,Speeding,40.77902778195693,-74.10678315684365,Medium
+2025-08-17,07:34:57,Clear,Moderate,Morning,Low,Other,Car,Speeding,40.74108448223878,-73.8289663713301,Low
+2025-02-26,20:51:18,Clear,Good,Evening,High,Rollover,Car,Alcohol,40.63245052443951,-73.99554751122409,High
+2025-04-08,13:51:04,Clear,Good,Afternoon,Low,Side,Pedestrian,Distracted Driving,40.7947524175533,-74.07177448625988,Low
+2025-07-24,19:39:10,Rain,Moderate,Evening,Medium,Side,Car,Other,40.87976317086482,-73.83535913183933,Medium
+2025-05-16,15:01:10,Clear,Poor,Afternoon,Medium,Head-on,Car,Distracted Driving,40.70618497610857,-73.88093741371945,Medium
+2025-04-22,01:51:16,Clear,Good,Night,High,Rear-end,Motorcycle,Speeding,40.852963173142015,-73.73333199931854,Medium
+2025-08-03,01:37:20,Clear,Good,Night,Low,Side,Bus,Distracted Driving,40.91252976433906,-73.98605475926108,Low
+2025-06-23,00:42:52,Clear,Moderate,Night,Medium,Side,Truck,Weather,40.619007472630734,-73.88897810329864,Low
+2025-06-27,00:57:54,Clear,Poor,Night,Medium,Side,Motorcycle,Running Red Light,40.57270798403098,-74.01360330178913,Medium
+2025-01-11,02:27:14,Fog,Construction,Night,Low,Head-on,Car,Other,40.76941553493074,-73.88494853399422,High
+2025-05-10,01:49:13,Clear,Good,Night,High,Head-on,Truck,Alcohol,40.76633963067832,-73.77814748258643,High
+2025-05-20,05:44:12,Fog,Moderate,Night,High,Rear-end,Car,Speeding,40.84954464456904,-74.10541537819492,Medium
+2025-06-20,13:38:46,Clear,Construction,Afternoon,Medium,Side,Bus,Mechanical Failure,40.87624915940405,-73.87599571403453,Low
+2025-06-04,18:12:52,Clear,Good,Afternoon,High,Rear-end,Car,Distracted Driving,40.874955715832485,-74.13536165543631,Low
+2025-03-19,17:05:01,Clear,Good,Afternoon,Low,Rollover,Motorcycle,Running Red Light,40.76451305329319,-73.81490829156999,Medium
+2025-01-07,12:51:25,Clear,Good,Morning,Medium,Side,Car,Weather,40.72186228776248,-73.76328728193901,Low
+2025-06-27,01:22:37,Clear,Good,Night,High,Rear-end,Motorcycle,Distracted Driving,40.66948134753695,-74.05750614453193,Medium
+2025-05-21,02:11:36,Clear,Moderate,Night,Medium,Side,Motorcycle,Running Red Light,40.88031713167253,-73.80481270074682,Low
+2025-04-27,16:05:46,Clear,Poor,Afternoon,Low,Rear-end,Car,Speeding,40.67580342875593,-74.00151096720754,Low
+2025-04-07,11:48:20,Rain,Good,Morning,High,Rear-end,Car,Speeding,40.911235773040936,-74.06368784376444,Medium
+2025-05-12,05:04:57,Rain,Construction,Night,Low,Rear-end,Bicycle,Weather,40.83490421426384,-73.95822875368464,Medium
+2025-02-20,19:50:01,Snow,Poor,Evening,Medium,Other,Motorcycle,Speeding,40.7766826812345,-73.76921388053684,Medium
+2025-01-29,12:38:42,Clear,Moderate,Morning,Low,Other,Car,Weather,40.860886202432624,-74.13093834081026,Low
+2025-08-01,09:59:33,Clear,Moderate,Morning,Low,Rear-end,Motorcycle,Weather,40.81467839787637,-74.02560577473464,Low
+2025-01-10,08:49:19,Rain,Good,Morning,Medium,Side,Car,Distracted Driving,40.66611199200162,-73.89922670146956,Low
+2025-02-08,00:18:41,Clear,Moderate,Night,Medium,Rollover,Car,Speeding,40.84300168711487,-73.87822446644167,Medium
+2025-02-21,06:31:39,Clear,Poor,Night,Medium,Rear-end,Car,Running Red Light,40.69569134814044,-73.74089812615672,Medium
+2025-04-30,08:23:45,Rain,Moderate,Morning,Low,Side,Car,Other,40.864681369775546,-73.8877340270544,Low
+2025-07-01,23:51:48,Clear,Moderate,Evening,Low,Other,Car,Speeding,40.70266927977184,-73.74664551313938,Low
+2025-04-15,13:53:36,Rain,Moderate,Afternoon,Jam,Rear-end,Car,Speeding,40.77806634416744,-74.12894366715443,Medium
+2025-02-21,04:13:10,Clear,Moderate,Night,Low,Other,Motorcycle,Distracted Driving,40.80925874880776,-73.71940905806845,Low
+2025-04-05,01:32:05,Clear,Good,Night,Low,Rollover,Car,Weather,40.75080727576715,-73.87947308212694,Medium
+2025-04-27,19:40:05,Rain,Moderate,Evening,Medium,Rollover,Motorcycle,Mechanical Failure,40.82920435528545,-73.9524123907865,High
+2025-01-24,19:02:03,Clear,Good,Evening,Medium,Other,Car,Running Red Light,40.68205851354446,-73.9397454279606,Low
+2025-07-06,21:18:03,Snow,Construction,Evening,Low,Other,Motorcycle,Mechanical Failure,40.75111741818695,-73.93317735058208,Medium
+2025-04-08,21:16:51,Clear,Good,Evening,Low,Rear-end,Car,Alcohol,40.63538319262877,-73.77455567958093,Low
+2025-08-13,06:08:11,Rain,Poor,Night,Low,Rear-end,Car,Speeding,40.85635071894888,-73.75885211052521,Medium
+2025-04-24,14:09:09,Clear,Good,Afternoon,Medium,Other,Truck,Running Red Light,40.7206081785242,-73.96221233643222,Low
+2025-08-04,07:16:20,Rain,Poor,Morning,Medium,Rollover,Bicycle,Speeding,40.83559842865109,-73.81884345610763,High
+2025-07-16,00:59:51,Clear,Good,Night,Medium,Rollover,Car,Weather,40.65590254737951,-74.11464278796875,Medium
+2025-05-16,17:18:18,Snow,Good,Afternoon,Low,Rear-end,Car,Running Red Light,40.68820411229058,-73.94414540530039,Low
+2025-06-09,20:07:57,Clear,Good,Evening,Medium,Other,Car,Mechanical Failure,40.89147882511469,-73.82064224340307,Low
+2025-08-20,09:21:06,Fog,Moderate,Morning,Low,Rear-end,Car,Speeding,40.63663888367085,-73.80944389576462,Low
+2025-07-21,15:47:08,Rain,Good,Afternoon,Low,Rollover,Car,Speeding,40.60374661231869,-74.03990989480529,Medium
+2025-06-09,12:14:06,Clear,Poor,Morning,Low,Head-on,Car,Alcohol,40.55004078576667,-73.74352913247749,Medium
+2025-04-18,17:34:52,Rain,Good,Afternoon,Low,Rollover,Motorcycle,Weather,40.842186969712685,-73.76773938830654,Medium
+2025-08-09,12:35:22,Clear,Good,Morning,Medium,Rear-end,Motorcycle,Speeding,40.80644247074474,-74.01025845109122,Low
+2025-01-31,20:12:29,Clear,Moderate,Evening,Medium,Rollover,Motorcycle,Alcohol,40.887514846569225,-73.87336817725588,Medium
+2025-05-12,14:21:15,Rain,Good,Afternoon,Jam,Other,Car,Speeding,40.57207502263232,-73.97566877573259,Medium
+2025-01-21,09:01:51,Snow,Good,Morning,High,Rollover,Truck,Mechanical Failure,40.65188716792502,-73.85859522527987,High
+2025-06-04,14:10:32,Rain,Good,Afternoon,Low,Rollover,Motorcycle,Speeding,40.64068515270281,-73.97066037864121,Medium
+2025-03-10,05:39:04,Clear,Poor,Night,High,Head-on,Motorcycle,Weather,40.85753954372608,-74.044253140757,High
+2025-01-28,01:56:07,Clear,Poor,Night,High,Side,Bus,Distracted Driving,40.617663471803645,-73.80423436913416,Medium
+2025-07-03,02:46:58,Clear,Good,Night,Medium,Rear-end,Car,Distracted Driving,40.75611843153054,-73.99749795943463,Low
+2025-04-17,01:29:26,Clear,Good,Night,Medium,Other,Car,Distracted Driving,40.679651309582674,-73.70707340138314,Low
+2025-01-27,20:38:08,Clear,Good,Evening,High,Rollover,Car,Other,40.570700740241485,-73.9635382469146,High
+2025-06-25,11:20:18,Rain,Moderate,Morning,High,Rollover,Car,Distracted Driving,40.8699885113933,-73.84350903212157,High
+2025-02-16,17:04:11,Clear,Good,Afternoon,Jam,Side,Car,Speeding,40.76677643064615,-73.71563397598015,Low
+2025-08-10,18:23:02,Snow,Good,Afternoon,High,Other,Car,Running Red Light,40.639164668132125,-73.9157455717364,Medium
+2025-01-09,16:19:31,Clear,Good,Afternoon,High,Side,Car,Weather,40.71874449742876,-74.1338234534618,Low
+2025-06-03,07:17:42,Clear,Good,Morning,High,Head-on,Car,Running Red Light,40.75812922395876,-74.1474697011779,Medium
+2025-08-07,16:47:29,Clear,Moderate,Afternoon,High,Rollover,Motorcycle,Running Red Light,40.79919494850284,-74.0742955469032,Medium
+2025-04-07,21:54:56,Snow,Moderate,Evening,Low,Rollover,Bicycle,Alcohol,40.79824439339302,-73.72254157580107,High
+2025-03-18,16:19:29,Clear,Moderate,Afternoon,Medium,Other,Car,Alcohol,40.6796121304288,-73.85144295584162,Low
+2025-07-16,09:30:03,Fog,Poor,Morning,High,Rear-end,Car,Distracted Driving,40.55271492133256,-74.08604105283858,Medium
+2025-04-08,08:38:03,Rain,Good,Morning,High,Other,Car,Weather,40.90059817678522,-73.8303913671376,Medium
+2025-08-23,17:48:09,Clear,Moderate,Afternoon,High,Other,Motorcycle,Speeding,40.61683552385058,-74.06056138527414,Low
+2025-08-01,14:36:29,Clear,Good,Afternoon,Low,Other,Truck,Weather,40.72965942141904,-73.94239361321439,Low
+2025-03-16,19:56:17,Clear,Good,Evening,Medium,Rollover,Car,Speeding,40.74843239856993,-74.07182865355658,Medium
+2025-04-14,22:09:49,Fog,Good,Evening,High,Head-on,Pedestrian,Speeding,40.62011573087076,-73.84195711677272,High
+2025-02-20,05:14:03,Clear,Poor,Night,Medium,Rear-end,Pedestrian,Running Red Light,40.64393517057432,-73.95902395618741,Medium
+2025-05-15,15:23:52,Clear,Moderate,Afternoon,Medium,Other,Car,Distracted Driving,40.848829067358736,-73.81075829603448,Low
+2025-08-01,06:09:05,Clear,Moderate,Night,Medium,Rollover,Car,Alcohol,40.7870049047583,-74.05381658802982,Medium
+2025-01-30,15:38:33,Rain,Poor,Afternoon,Medium,Side,Truck,Other,40.91633630410994,-73.83389964001995,Medium
+2025-07-31,01:25:32,Clear,Moderate,Night,Low,Rollover,Bicycle,Speeding,40.5604210477862,-73.95608829829452,Medium
+2025-03-03,03:23:11,Fog,Poor,Night,High,Rear-end,Car,Speeding,40.80002330592181,-74.00944423532664,High
+2025-05-07,07:23:16,Clear,Moderate,Morning,Medium,Head-on,Motorcycle,Mechanical Failure,40.779072437262265,-73.78374343747738,Medium
+2025-06-01,17:55:48,Clear,Good,Afternoon,High,Head-on,Bicycle,Alcohol,40.88571447970937,-73.781971420029,Medium
+2025-08-19,22:28:20,Clear,Moderate,Evening,Medium,Head-on,Car,Other,40.82605006872759,-74.00304898182472,Medium
+2025-04-07,02:53:51,Rain,Good,Night,Medium,Rollover,Truck,Speeding,40.55341124985803,-73.99245339459145,High
+2025-08-12,06:46:24,Clear,Good,Night,High,Rollover,Bicycle,Weather,40.79976873056415,-73.76606770885724,High
+2025-07-21,03:51:59,Clear,Poor,Night,Low,Side,Truck,Distracted Driving,40.81386697404041,-73.83116036289807,Medium
+2025-06-13,22:24:04,Clear,Good,Evening,Low,Rear-end,Truck,Speeding,40.57777305611623,-74.10826460267958,Low
+2025-06-27,09:02:19,Clear,Moderate,Morning,Medium,Rollover,Motorcycle,Other,40.87678268531701,-73.80409935482376,Medium
+2025-01-25,03:30:13,Clear,Good,Night,Low,Head-on,Car,Mechanical Failure,40.57080414914272,-74.12105362243291,Medium
